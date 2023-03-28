@@ -1,0 +1,177 @@
+[
+	{
+		"slug": "HackerN64/HackerSM64",
+		"desc": "A Super Mario 64 decompilation repo based on CrashOveride95/ultrasm64 that aims to provide a flexible, easy-to-use base for creating romhacks.",
+		"lang": "C",
+		"stars": 168
+	},
+	{
+		"slug": "k4zmu2a/SpaceCadetPinball",
+		"desc": "Decompilation of 3D Pinball for Windows – Space Cadet",
+		"lang": "C++",
+		"stars": 2489
+	},
+	{
+		"slug": "n64decomp/mk64",
+		"desc": "A speedy Mario Kart 64 decompilation, brought to you by the cousin of a tame racing driver.",
+		"lang": "C",
+		"stars": 303
+	},
+	{
+		"slug": "zeldaret/oot",
+		"desc": "Decompilation of The Legend of Zelda: Ocarina of Time",
+		"lang": "C",
+		"stars": 4023
+	},
+	{
+		"slug": "zeldaret/tp",
+		"desc": "Decompilation of The Legend of Zelda: Twilight Princess (GCN, USA)",
+		"lang": "Assembly",
+		"stars": 362
+	},
+	{
+		"slug": "zeldaret/tmc",
+		"desc": "Decompilation of The Legend of Zelda: The Minish Cap (USA/JP/EU)",
+		"lang": "C",
+		"stars": 369
+	},
+	{
+		"slug": "zeldaret/mm",
+		"desc": "Decompilation of The Legend of Zelda: Majora's Mask",
+		"lang": "C",
+		"stars": 716
+	},
+	{
+		"slug": "zeldaret/botw",
+		"desc": "Decompilation of The Legend of Zelda: Breath of the Wild (Switch 1.5.0)",
+		"lang": "C++",
+		"stars": 1066
+	},
+	{
+		"slug": "CrashOveride95/ultrasm64",
+		"desc": "Fork of the SM64 decomp that adds several quality-of-life patches",
+		"lang": "C",
+		"stars": 42
+	},
+
+	{
+		"slug": "jubalh/nudoku",
+		"desc": "ncurses based sudoku game",
+		"lang": "C",
+		"stars": 268
+	},
+	{
+		"slug": "sm64-port/sm64-port",
+		"desc": "A port of https://www.github.com/n64decomp/sm64 for modern devices.",
+		"lang": "C",
+		"stars": 811
+	},
+	{
+		"slug": "WolfireGames/overgrowth",
+		"desc": "Open Source codebase of the game Overgrowth by Wolfire Games LLC",
+		"lang": "C++",
+		"stars": 2215
+	},
+	{
+		"slug": "JMS55/sandbox",
+		"desc": "A sand simulation game",
+		"lang": "Rust",
+		"stars": 255
+	},
+	{
+		"slug": "sm64pc/sm64ex",
+		"desc": "Fork of https://github.com/sm64-port/sm64-port with additional features.",
+		"lang": "C",
+		"stars": 1362
+	},
+	{
+		"slug": "zestydevy/dinosaur-planet",
+		"desc": "A WIP decompilation of Dinosaur Planet for the Nintendo 64",
+		"lang": "C",
+		"stars": 136
+	},
+	{
+		"slug": "chocolate-doom/chocolate-doom",
+		"desc": "Chocolate Doom is a Doom source port that is minimalist and historically accurate.",
+		"lang": "C",
+		"stars": 1541
+	},
+	{
+		"slug": "jorio/Bugdom",
+		"desc": "Pangea Software's Bugdom for modern systems",
+		"lang": "C",
+		"stars": 287
+	},
+	{
+		"slug": "johnpayne-dev/MinecraftC",
+		"desc": "A Raytraced Minecraft Classic 0.0.30a port to C",
+		"lang": "C",
+		"stars": 255
+	},
+	{
+		"slug": "evanw/webgl-water",
+		"desc": "WebGL Water Demo",
+		"lang": "JavaScript",
+		"stars": 873
+	},
+	{
+		"slug": "cloudflare/doom-wasm",
+		"desc": "Chocolate Doom WebAssembly port with WebSockets support",
+		"lang": "C",
+		"stars": 207
+	},
+	{
+		"slug": "jesuisundev/acrossthemultiverse",
+		"desc": "An in-browser, freely explorable, 3D game across infinite universes procedurally generated. Go from universe to universe and discover the origin of everything. A four chapter story with an epic rev…",
+		"lang": "JavaScript",
+		"stars": 46
+	},
+	{
+		"slug": "legluondunet/MyLittleLutrisScripts",
+		"desc": "Lutris scripts for old games.",
+		"lang": "HTML",
+		"stars": 196
+	},
+	{
+		"slug": "ugtrain/ugtrain",
+		"desc": "The Universal Elite Game Trainer for CLI (Linux game trainer research project)",
+		"lang": "C++",
+		"stars": 132
+	},
+	{
+		"slug": "ericek111/linux-csgo-external-1",
+		"desc": "CSGO Hack for x64 Linux systems",
+		"lang": "C++",
+		"stars": 7
+	},
+	{
+		"slug": "richiecarmichael/Esri-Flight-Simulator",
+		"desc": "A basic flight simulator with four synchronized views.",
+		"lang": "JavaScript",
+		"stars": 25
+	},
+	{
+		"slug": "o2sh/teki",
+		"desc": "Touhou-style shoot'em up",
+		"lang": "Rust",
+		"stars": 63
+	},
+	{
+		"slug": "sunshinekitty/TwitchPlaysPokemon",
+		"desc": "A bot mimicking Twitch Plays Pokemon",
+		"lang": "Python",
+		"stars": 110
+	},
+	{
+		"slug": "alula/SpaceCadetPinball",
+		"desc": "Emscripten port of 3D Pinball for Windows – Space Cadet decompilation",
+		"lang": "C++",
+		"stars": 271
+	},
+	{
+		"slug": "floren/ching",
+		"desc": "4.4BSD's I Ching, slightly tweaked to be more friendly for modern Linux systems",
+		"lang": "C",
+		"stars": 21
+	}
+]
