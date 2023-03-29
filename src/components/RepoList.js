@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 
 import { styled } from "@compiled/react";
 
@@ -15,21 +15,35 @@ const Item = styled.div`
 `;
 
 export default function RepoList({ data }) {
+	const [sort, setSort] = useState(0);
+	let relData = data;
+	if (sort == 1) {
+		relData = data.sort((a, b) => a.stars < b.stars);
+	} else if (sort == 2) {
+		relData = data.sort((a, b) => a.slug.toLowerCase() > b.slug.toLowerCase());
+	}
 	return (
-		<Container>
-			{data.map((node) => {
-				return (
-					<Item>
-						<h3>
-							<a href={`https://github.com/${node.slug}`}>{node.slug}</a> (⭐{" "}
-							{node.stars})
-						</h3>
-						<div>
-							{node.desc} ({node.lang})
-						</div>
-					</Item>
-				);
-			})}
-		</Container>
+		<div>
+			<select value={sort} onChange={(evt) => setSort(evt.target.value)}>
+				<option value={0}>by Date Added</option>
+				<option value={1}>by Stars</option>
+				<option value={2}>by Name</option>
+			</select>
+			<Container>
+				{relData.map((node) => {
+					return (
+						<Item>
+							<h3>
+								<a href={`https://github.com/${node.slug}`}>{node.slug}</a> (⭐{" "}
+								{node.stars})
+							</h3>
+							<div>
+								{node.desc} ({node.lang})
+							</div>
+						</Item>
+					);
+				})}
+			</Container>
+		</div>
 	);
 }

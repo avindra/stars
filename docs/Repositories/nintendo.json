@@ -11,6 +11,7 @@
 		"lang": "C++",
 		"stars": 4483
 	},
+	{ "slug": "yuzu-emu/yuzu-mainline", "lang": "C++", "stars": 1429 },
 	{
 		"slug": "project64/project64",
 		"desc": "N64 Emulator",

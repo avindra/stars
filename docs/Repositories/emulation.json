@@ -89,7 +89,6 @@
 		"lang": "C",
 		"stars": 3691
 	},
-	{ "slug": "yuzu-emu/yuzu-mainline", "lang": "C++", "stars": 1429 },
 	{
 		"slug": "ThirteenAG/WidescreenFixesPack",
 		"desc": "Plugins to make or improve widescreen resolutions support in games, add more features and fix bugs.",
