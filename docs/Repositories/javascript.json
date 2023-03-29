@@ -1,0 +1,455 @@
+[
+	{
+		"slug": "espruino/Espruino",
+		"desc": "The Espruino JavaScript interpreter - Official Repo",
+		"lang": "C",
+		"stars": 2557
+	},
+	{
+		"slug": "facebook/hermes",
+		"desc": "A JavaScript engine optimized for running React Native.",
+		"lang": "C++",
+		"stars": 7790
+	},
+	{
+		"slug": "google/closure-compiler",
+		"desc": "A JavaScript checker and optimizer.",
+		"lang": "Java",
+		"stars": 6801
+	},
+	{
+		"slug": "krausest/js-framework-benchmark",
+		"desc": "A comparison of the performance of a few popular javascript frameworks",
+		"lang": "JavaScript",
+		"stars": 5364
+	},
+	{
+		"slug": "nodejs/undici",
+		"desc": "An HTTP/1.1 client, written from scratch for Node.js",
+		"lang": "JavaScript",
+		"stars": 4633
+	},
+	{
+		"slug": "Samsung/escargot",
+		"desc": "Escargot is a memory optimized JavaScript engine for mid-range devices such as mobile phone, tablet and TV.",
+		"lang": "C++",
+		"stars": 118
+	},
+	{
+		"slug": "tc39/test262",
+		"desc": "Official ECMAScript Conformance Test Suite",
+		"lang": "JavaScript",
+		"stars": 1998
+	},
+	{
+		"slug": "vitest-dev/vitest",
+		"desc": "A Vite-native test framework. It's fast!",
+		"lang": "TypeScript",
+		"stars": 8499
+	},
+	{
+		"slug": "Brooooooklyn/canvas",
+		"desc": "High performance skia binding to Node.js. Zero system dependencies and pure npm packages without any postinstall scripts nor node-gyp.",
+		"lang": "Rust",
+		"stars": 1200
+	},
+	{
+		"slug": "tree-sitter/tree-sitter-javascript",
+		"desc": "Javascript grammar for tree-sitter",
+		"lang": "JavaScript",
+		"stars": 219
+	},
+	{
+		"slug": "tc39/proposal-temporal",
+		"desc": "Provides standard objects and functions for working with dates and times.",
+		"lang": "HTML",
+		"stars": 2744
+	},
+	{
+		"slug": "tc39/proposal-pipeline-operator",
+		"desc": "A proposal for adding a useful pipe operator to JavaScript.",
+		"lang": "HTML",
+		"stars": 6933
+	},
+	{
+		"slug": "tc39/proposal-iterator-helpers",
+		"desc": "Methods for working with iterators in ECMAScript",
+		"lang": "HTML",
+		"stars": 1024
+	},
+	{
+		"slug": "state-adapt/state-adapt",
+		"desc": "Declarative, incremental state management library",
+		"lang": "TypeScript",
+		"stars": 112
+	},
+	{
+		"slug": "Moddable-OpenSource/moddable",
+		"desc": "Tools for developers to create truly open IoT products using standard JavaScript on low cost microcontrollers.",
+		"lang": "C",
+		"stars": 1072
+	},
+	{
+		"slug": "load1n9/caviar",
+		"desc": "Blazing fast, modern, Game Engine powered by WebGPU for Deno and the browser",
+		"lang": "TypeScript",
+		"stars": 106
+	},
+	{
+		"slug": "ldapjs/node-ldapjs",
+		"desc": "LDAP Client and Server API for node.js",
+		"lang": "JavaScript",
+		"stars": 1482
+	},
+	{
+		"slug": "kaleidawave/ezno",
+		"desc": "A JavaScript compiler and TypeScript checker written in Rust with a focus on static analysis and runtime performance",
+		"lang": "Rust",
+		"stars": 701
+	},
+	{
+		"slug": "dudykr/stc",
+		"desc": "Speedy TypeScript type checker",
+		"lang": "Rust",
+		"stars": 4609
+	},
+	{
+		"slug": "DelSkayn/rquickjs",
+		"desc": "High level bindings to the quickjs javascript engine",
+		"lang": "Rust",
+		"stars": 190
+	},
+	{
+		"slug": "denysdovhan/wtfjs",
+		"desc": "A list of funny and tricky JavaScript examples",
+		"lang": "JavaScript",
+		"stars": 30513
+	},
+	{
+		"slug": "es-meta/esmeta",
+		"desc": "ECMAScript Specification (ECMA-262) Metalanguage",
+		"lang": "Scala",
+		"stars": 120
+	},
+	{
+		"slug": "google/closure-compiler-npm",
+		"desc": "Package for managing and documenting closure-compiler for use via npm",
+		"lang": "JavaScript",
+		"stars": 321
+	},
+	{
+		"slug": "google/zx",
+		"desc": "A tool for writing better scripts",
+		"lang": "JavaScript",
+		"stars": 36854
+	},
+	{
+		"slug": "jsdom/jsdom",
+		"desc": "A JavaScript implementation of various web standards, for use with Node.js",
+		"lang": "JavaScript",
+		"stars": 18623
+	},
+	{
+		"slug": "bevacqua/dragula",
+		"desc": "Drag and drop so simple it hurts",
+		"lang": "JavaScript",
+		"stars": 21483
+	},
+	{
+		"slug": "neon-bindings/neon",
+		"desc": "Rust bindings for writing safe and fast native Node.js modules.",
+		"lang": "Rust",
+		"stars": 7099
+	},
+	{
+		"slug": "nginx/njs",
+		"desc": "An official read-only mirror of http://hg.nginx.org/njs/ which is updated hourly.",
+		"lang": "C",
+		"stars": 665
+	},
+	{
+		"slug": "saghul/txiki.js",
+		"desc": "A tiny JavaScript runtime",
+		"lang": "C",
+		"stars": 1891
+	},
+	{
+		"slug": "tc39/ecma262",
+		"desc": "Status, process, and documents for ECMA-262",
+		"lang": "HTML",
+		"stars": 14011
+	},
+	{
+		"slug": "tc39/proposal-import-attributes",
+		"desc": "Proposal for syntax to import ES modules with assertions",
+		"lang": "HTML",
+		"stars": 389
+	},
+	{
+		"slug": "whatwg/fetch",
+		"desc": "Fetch Standard",
+		"lang": "HTML",
+		"stars": 1978
+	},
+	{
+		"slug": "acornjs/acorn",
+		"desc": "A small, fast, JavaScript-based JavaScript parser",
+		"lang": "JavaScript",
+		"stars": 9247
+	},
+	{
+		"slug": "beautify-web/js-beautify",
+		"desc": "Beautifier for javascript",
+		"lang": "JavaScript",
+		"stars": 8065
+	},
+	{
+		"slug": "denolib/awesome-deno",
+		"desc": "Curated list of awesome things related to Deno",
+		"stars": 3938
+	},
+	{
+		"slug": "developit/unfetch",
+		"desc": "Bare minimum 500b fetch polyfill.",
+		"lang": "JavaScript",
+		"stars": 5529
+	},
+	{
+		"slug": "dinerojs/dinero.js",
+		"desc": "Create, calculate, and format money in JavaScript and TypeScript.",
+		"lang": "TypeScript",
+		"stars": 5871
+	},
+	{
+		"slug": "ds300/patch-package",
+		"desc": "Fix broken node modules instantly 🏃🏽‍♀️",
+		"lang": "TypeScript",
+		"stars": 8394
+	},
+	{
+		"slug": "dsherret/dax",
+		"desc": "Cross platform shell tools for Deno inspired by zx.",
+		"lang": "TypeScript",
+		"stars": 270
+	},
+	{
+		"slug": "engine262/engine262",
+		"desc": "An implementation of ECMA-262 in JavaScript",
+		"lang": "JavaScript",
+		"stars": 671
+	},
+	{
+		"slug": "jslint-org/jslint",
+		"desc": "JSLint, The JavaScript Code Quality and Coverage Tool",
+		"lang": "JavaScript",
+		"stars": 3560
+	},
+	{
+		"slug": "lukeed/clsx",
+		"desc": "A tiny (228B) utility for constructing `className` strings conditionally.",
+		"lang": "JavaScript",
+		"stars": 4848
+	},
+	{
+		"slug": "pastelsky/bundlephobia",
+		"desc": "Find out the cost of adding a new frontend dependency to your project",
+		"lang": "JavaScript",
+		"stars": 7836
+	},
+	{
+		"slug": "tc39/proposal-change-array-by-copy",
+		"desc": "Provides additional methods on Array.prototype and TypedArray.prototype to enable changes on the array by returning a new copy of it with the change.",
+		"lang": "HTML",
+		"stars": 438
+	},
+	{
+		"slug": "vercel/micro",
+		"desc": "Asynchronous HTTP microservices",
+		"lang": "TypeScript",
+		"stars": 10375
+	},
+	{
+		"slug": "devsnek/esvu",
+		"desc": "esvu is your one-stop shop for all implementations of ECMAScript.",
+		"lang": "JavaScript",
+		"stars": 142
+	},
+	{
+		"slug": "estree/estree",
+		"desc": "The ESTree Spec",
+		"stars": 4521
+	},
+	{
+		"slug": "inexorabletash/jslogo",
+		"desc": "Logo in JavaScript",
+		"lang": "JavaScript",
+		"stars": 342
+	},
+	{
+		"slug": "tc39/proposal-pattern-matching",
+		"desc": "Pattern matching syntax for ECMAScript",
+		"lang": "HTML",
+		"stars": 4718
+	},
+	{
+		"slug": "tc39/proposal-record-tuple",
+		"desc": "ECMAScript proposal for the Record and Tuple value types. | Stage 2: it will change!",
+		"lang": "HTML",
+		"stars": 2232
+	},
+	{
+		"slug": "tc39/proposal-string-dedent",
+		"desc": "TC39 Proposal to remove common leading indentation from multiline template strings",
+		"lang": "HTML",
+		"stars": 520
+	},
+	{
+		"slug": "tc39/proposal-type-annotations",
+		"desc": "ECMAScript proposal for type syntax that is erased - Stage 1",
+		"lang": "JavaScript",
+		"stars": 3300
+	},
+	{
+		"slug": "stuartlangridge/sorttable",
+		"desc": "JavaScript client-side sortable tables",
+		"lang": "JavaScript",
+		"stars": 89
+	},
+	{
+		"slug": "atlassian-labs/compiled",
+		"desc": "A familiar and performant compile time CSS-in-JS library for React.",
+		"lang": "TypeScript",
+		"stars": 1835
+	},
+	{
+		"slug": "ccxvii/mujs",
+		"desc": "An embeddable Javascript interpreter in C.",
+		"lang": "C",
+		"stars": 705
+	},
+	{
+		"slug": "just-js/just",
+		"desc": "a very small v8 javascript runtime for linux only",
+		"lang": "JavaScript",
+		"stars": 3040
+	},
+	{
+		"slug": "cyclejs/cyclejs",
+		"desc": "A functional and reactive JavaScript framework for predictable code",
+		"lang": "TypeScript",
+		"stars": 10216
+	},
+	{
+		"slug": "bellard/quickjs",
+		"desc": "Public repository of the QuickJS Javascript Engine. Pull requests are not accepted. Use the mailing list to submit patches.",
+		"lang": "C",
+		"stars": 5811
+	},
+	{
+		"slug": "shajunxing/quickjs-ffi",
+		"desc": "libffi wrapper for quickjs",
+		"lang": "C",
+		"stars": 51
+	},
+	{
+		"slug": "rslint/rslint",
+		"desc": "A (WIP) Extremely fast JavaScript and TypeScript linter and Rust crate",
+		"lang": "Rust",
+		"stars": 2555
+	},
+	{
+		"slug": "svaarala/duktape",
+		"desc": "Duktape - embeddable Javascript engine with a focus on portability and compact footprint",
+		"lang": "JavaScript",
+		"stars": 5537
+	},
+	{
+		"slug": "elsaland/elsa",
+		"desc": "Elsa is a minimal runtime for JavaScript and TypeScript written in Go",
+		"lang": "TypeScript",
+		"stars": 2749
+	},
+	{
+		"slug": "brianleroux/wtfjs",
+		"desc": "wtfjs.com!",
+		"lang": "JavaScript",
+		"stars": 1375
+	},
+	{
+		"slug": "cesanta/mjs",
+		"desc": "Embedded JavaScript engine for C/C++",
+		"lang": "C",
+		"stars": 1725
+	},
+	{
+		"slug": "vercel/turbo",
+		"desc": "Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.",
+		"lang": "Rust",
+		"stars": 20453
+	},
+	{
+		"slug": "gfwilliams/tiny-js",
+		"desc": "Automatically exported from code.google.com/p/tiny-js",
+		"lang": "C++",
+		"stars": 458
+	},
+	{
+		"slug": "hazae41/xswr",
+		"desc": "Yet another React data (re)fetching library",
+		"lang": "TypeScript",
+		"stars": 91
+	},
+	{
+		"slug": "jmaister/excellentexport",
+		"desc": "Javascript export to Excel",
+		"lang": "TypeScript",
+		"stars": 1301
+	},
+	{
+		"slug": "mck89/peast",
+		"desc": "JavaScript parser written in PHP that generates AST from your code according to ECMAScript specification",
+		"lang": "PHP",
+		"stars": 146
+	},
+	{
+		"slug": "NerdLang/nerd",
+		"desc": "Javascript's God Mode. No VM. No Bytecode. No GC. Just native binaries.",
+		"lang": "C++",
+		"stars": 3417
+	},
+	{
+		"slug": "pvdz/tenko",
+		"desc": "An 100% spec compliant ES2021 JavaScript parser written in JS",
+		"lang": "JavaScript",
+		"stars": 503
+	},
+	{
+		"slug": "ota-meshi/eslint-plugin-regexp",
+		"desc": "ESLint plugin for finding regex mistakes and style guide violations.",
+		"lang": "TypeScript",
+		"stars": 204
+	},
+	{
+		"slug": "tc39/proposal-structs",
+		"desc": "JavaScript Structs: Fixed Layout Objects",
+		"stars": 144
+	},
+	{
+		"slug": "richardanaya/web.rs",
+		"desc": "JavaScript-WebAssembly interop library for Rust.",
+		"lang": "Rust",
+		"stars": 151
+	},
+	{
+		"slug": "GoogleChrome/lighthouse",
+		"desc": "Automated auditing, performance metrics, and best practices for the web.",
+		"lang": "JavaScript",
+		"stars": 26271
+	},
+	{
+		"slug": "mdubourg001/ssgo",
+		"desc": "The minimalistic but flexible static site generator for Deno .",
+		"lang": "TypeScript",
+		"stars": 173
+	}
+]

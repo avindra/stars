@@ -1,0 +1,44 @@
+[
+	{
+		"slug": "nginxinc/kubernetes-ingress",
+		"desc": "NGINX and NGINX Plus Ingress Controllers for Kubernetes",
+		"lang": "Go",
+		"stars": 4158
+	},
+	{
+		"slug": "cri-o/cri-o",
+		"desc": "Open Container Initiative-based implementation of Kubernetes Container Runtime Interface",
+		"lang": "Go",
+		"stars": 4472
+	},
+	{
+		"slug": "firecracker-microvm/firecracker-containerd",
+		"desc": "firecracker-containerd enables containerd to manage containers as Firecracker microVMs",
+		"lang": "Go",
+		"stars": 1785
+	},
+	{
+		"slug": "google/go-containerregistry",
+		"desc": "Go library and CLIs for working with container registries",
+		"lang": "Go",
+		"stars": 2339
+	},
+	{
+		"slug": "dex4er/fakechroot",
+		"desc": "gives a fake chroot environment",
+		"lang": "C",
+		"stars": 255
+	},
+	{
+		"slug": "ferrarimarco/docker-pxe",
+		"desc": "A virtualized implementation of PXE supported by DNSMasq",
+		"lang": "Dockerfile",
+		"stars": 102
+	},
+	{
+		"slug": "atmanos/atmanos",
+		"desc": "Build Go programs that run directly on the Xen hypervisor",
+		"lang": "Go",
+		"stars": 717
+	}
+]

@@ -1,0 +1,14 @@
+[
+	{
+		"slug": "ctlajoie/vscode-modelines",
+		"desc": "Set editor options for individual files. Supports Vim and Emacs modelines plus a Code-specific modeline syntax.",
+		"lang": "TypeScript",
+		"stars": 31
+	},
+	{
+		"slug": "helix-editor/helix",
+		"desc": "A post-modern modal text editor.",
+		"lang": "Rust",
+		"stars": 20173
+	}
+]

@@ -24,11 +24,20 @@ export default function RepoList({ data }) {
 	}
 	return (
 		<div>
-			<select value={sort} onChange={(evt) => setSort(evt.target.value)}>
-				<option value={0}>by Date Added</option>
-				<option value={1}>by Stars</option>
-				<option value={2}>by Name</option>
-			</select>
+			<div
+				style={{
+					display: "flex",
+					justifyContent: "space-between",
+					flexDirection: "column",
+				}}
+			>
+				<select value={sort} onChange={(evt) => setSort(evt.target.value)}>
+					<option value={0}>by Date Added</option>
+					<option value={1}>by Stars</option>
+					<option value={2}>by Name</option>
+				</select>
+			</div>
+			{relData.length} items
 			<Container>
 				{relData.map((node) => {
 					return (

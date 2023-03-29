@@ -1,0 +1,192 @@
+[
+	{
+		"slug": "developit/redaxios",
+		"desc": "The Axios API, as an 800 byte Fetch wrapper.",
+		"lang": "JavaScript",
+		"stars": 4081
+	},
+	{
+		"slug": "googleapis/gaxios",
+		"desc": "An HTTP request client that provides an axios like interface over top of node-fetch. Super lightweight. Supports proxies and all sorts of other stuff.",
+		"lang": "TypeScript",
+		"stars": 688
+	},
+	{
+		"slug": "axios/axios",
+		"desc": "Promise based HTTP client for the browser and node.js",
+		"lang": "JavaScript",
+		"stars": 99441
+	},
+	{
+		"slug": "dilanx/craco",
+		"desc": "Create React App Configuration Override, an easy and comprehensible configuration layer for Create React App.",
+		"lang": "TypeScript",
+		"stars": 6980
+	},
+	{
+		"slug": "facebook/create-react-app",
+		"desc": "Set up a modern web app by running one command.",
+		"lang": "JavaScript",
+		"stars": 99298
+	},
+	{
+		"slug": "react-bootstrap-table/react-bootstrap-table2",
+		"desc": "Next Generation of react-bootstrap-table",
+		"lang": "JavaScript",
+		"stars": 1236
+	},
+	{
+		"slug": "itmettkeDE/cargo-patch",
+		"desc": "Cargo Subcommand for patching dependencies using patch files",
+		"lang": "Rust",
+		"stars": 48
+	},
+	{
+		"slug": "libimobiledevice/libimobiledevice",
+		"desc": "A cross-platform protocol library to communicate with iOS devices",
+		"lang": "C",
+		"stars": 5552
+	},
+	{
+		"slug": "pinauten/Fugu15",
+		"desc": "Fugu15 is a semi-untethered permasigned jailbreak for iOS 15",
+		"lang": "C",
+		"stars": 942
+	},
+	{
+		"slug": "sgan81/apfs-fuse",
+		"desc": "FUSE driver for APFS (Apple File System)",
+		"lang": "C++",
+		"stars": 1397
+	},
+	{
+		"slug": "coreos/cargo-vendor-filterer",
+		"desc": "Tool to `cargo vendor` with filtering",
+		"lang": "Rust",
+		"stars": 26
+	},
+	{
+		"slug": "cosmiconfig/cosmiconfig",
+		"desc": "Find and load configuration from a package.json property, rc file, or CommonJS module",
+		"lang": "TypeScript",
+		"stars": 3484
+	},
+	{
+		"slug": "ds300/patch-package",
+		"desc": "Fix broken node modules instantly 🏃🏽‍♀️",
+		"lang": "TypeScript",
+		"stars": 8394
+	},
+	{
+		"slug": "fornwall/rust-script",
+		"desc": "Run Rust files and expressions as scripts without any setup or compilation step.",
+		"lang": "Rust",
+		"stars": 733
+	},
+	{
+		"slug": "GoogleChromeLabs/jsvu",
+		"desc": "JavaScript (engine) Version Updater",
+		"lang": "JavaScript",
+		"stars": 1679
+	},
+	{
+		"slug": "JustinBeckwith/retry-axios",
+		"desc": "A super flexible interceptor for Axios that makes it easy to retry requests.",
+		"lang": "TypeScript",
+		"stars": 442
+	},
+	{
+		"slug": "rust-secure-code/cargo-supply-chain",
+		"desc": "Gather author, contributor and publisher data on crates in your dependency graph.",
+		"lang": "Rust",
+		"stars": 295
+	},
+	{
+		"slug": "google/wire",
+		"desc": "Compile-time Dependency Injection for Go",
+		"lang": "Go",
+		"stars": 10366
+	},
+	{
+		"slug": "seemoo-lab/owl",
+		"desc": "An open Apple Wireless Direct Link (AWDL) implementation written in C",
+		"lang": "C",
+		"stars": 967
+	},
+	{
+		"slug": "microsoft/vscode-remote-release",
+		"desc": "Visual Studio Code Remote Development: Open any folder in WSL, in a Docker container, or on a remote machine using SSH and take advantage of VS Code's full feature set.",
+		"stars": 3045
+	},
+	{
+		"slug": "Merovius/srvfb",
+		"desc": "Stream a framebuffer device over HTTP",
+		"lang": "Go",
+		"stars": 234
+	},
+	{
+		"slug": "osnr/tabssh",
+		"desc": "ssh into browser tab.",
+		"lang": "Go",
+		"stars": 70
+	},
+	{
+		"slug": "jaylogue/retro-fuse",
+		"desc": "A FUSE module for accessing ancient Unix filesystems.",
+		"lang": "C",
+		"stars": 48
+	},
+	{
+		"slug": "harababurel/gcsf",
+		"desc": "a FUSE file system based on Google Drive",
+		"lang": "Rust",
+		"stars": 2293
+	},
+	{
+		"slug": "libyal/libfsrefs",
+		"desc": "Library and tools to access the Resilient File System (ReFS)",
+		"lang": "C",
+		"stars": 86
+	},
+	{
+		"slug": "oakes/vim_cubed",
+		"desc": "Vim rendered on a cube for no reason",
+		"lang": "Nim",
+		"stars": 2679
+	},
+	{
+		"slug": "osnr/TabFS",
+		"desc": "Mount your browser tabs as a filesystem.",
+		"lang": "JavaScript",
+		"stars": 3673
+	},
+	{
+		"slug": "sdras/career-ladders",
+		"desc": "A sample of career ladders I use for my organization, open sourced for anyone.",
+		"lang": "Vue",
+		"stars": 711
+	},
+	{
+		"slug": "tessalt/echo-chamber-js",
+		"desc": "Commenting without the comments",
+		"lang": "JavaScript",
+		"stars": 4047
+	},
+	{
+		"slug": "QiushiWu/qiushiwu.github.io",
+		"lang": "JavaScript",
+		"stars": 108
+	},
+	{
+		"slug": "64/cmake-raytracer",
+		"desc": "Ray tracer written in pure CMake",
+		"lang": "CMake",
+		"stars": 641
+	},
+	{
+		"slug": "ImageOptim/gifski",
+		"desc": "GIF encoder based on libimagequant (pngquant). Squeezes maximum possible quality from the awful GIF format.",
+		"lang": "Rust",
+		"stars": 3015
+	}
+]

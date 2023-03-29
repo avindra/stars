@@ -1,0 +1,169 @@
+[
+	{
+		"slug": "facebook/sapling",
+		"desc": "A Scalable, User-Friendly Source Control System.",
+		"lang": "Rust",
+		"stars": 4781
+	},
+	{
+		"slug": "gittup/tup",
+		"desc": "Tup is a file-based build system.",
+		"lang": "C",
+		"stars": 1057
+	},
+	{
+		"slug": "google/copybara",
+		"desc": "Copybara: A tool for transforming and moving code between repositories.",
+		"lang": "Java",
+		"stars": 1727
+	},
+	{
+		"slug": "hsutter/cppfront",
+		"desc": "A personal experimental C++ Syntax 2 -> Syntax 1 compiler",
+		"lang": "C++",
+		"stars": 3662
+	},
+	{
+		"slug": "teaxyz/cli",
+		"desc": "the next-generation, cross‐platform package manager",
+		"lang": "TypeScript",
+		"stars": 6194
+	},
+	{
+		"slug": "TimUntersberger/neogit",
+		"desc": "magit for neovim",
+		"lang": "Lua",
+		"stars": 2047
+	},
+	{
+		"slug": "emscripten-core/emsdk",
+		"desc": "Emscripten SDK",
+		"lang": "Python",
+		"stars": 2395
+	},
+	{
+		"slug": "gokrazy/gokrazy",
+		"desc": "turn your Go program(s) into an appliance running on the Raspberry Pi 3, Pi 4, Pi Zero 2 W, or amd64 PCs!",
+		"lang": "Go",
+		"stars": 2605
+	},
+	{
+		"slug": "merryhime/dynarmic",
+		"desc": "An ARM dynamic recompiler.",
+		"lang": "C++",
+		"stars": 784
+	},
+	{
+		"slug": "rui314/mold",
+		"desc": "Mold: A Modern Linker",
+		"lang": "C++",
+		"stars": 10541
+	},
+	{
+		"slug": "turbolent/w2c2",
+		"desc": "Translates WebAssembly modules to portable C",
+		"lang": "C",
+		"stars": 488
+	},
+	{
+		"slug": "bazelbuild/bazel",
+		"desc": "a fast, scalable, multi-language and extensible build system",
+		"lang": "Java",
+		"stars": 20528
+	},
+	{
+		"slug": "dtolnay/cxx",
+		"desc": "Safe interop between Rust and C++",
+		"lang": "Rust",
+		"stars": 4637
+	},
+	{
+		"slug": "elfshaker/elfshaker",
+		"desc": "elfshaker stores binary objects efficiently",
+		"lang": "Rust",
+		"stars": 2259
+	},
+	{
+		"slug": "peaceiris/actions-gh-pages",
+		"desc": "GitHub Actions for GitHub Pages  Deploy static files and publish your site easily. Static-Site-Generators-friendly.",
+		"lang": "TypeScript",
+		"stars": 3779
+	},
+	{
+		"slug": "ninja-build/ninja",
+		"desc": "a small build system with a focus on speed",
+		"lang": "C++",
+		"stars": 9181
+	},
+	{
+		"slug": "dimensionhq/fleet",
+		"desc": "The blazing fast build tool for Rust.",
+		"lang": "Rust",
+		"stars": 2289
+	},
+	{
+		"slug": "allvm/allvm-tools",
+		"desc": "ALLVM Tools",
+		"lang": "C",
+		"stars": 50
+	},
+	{
+		"slug": "acaudwell/Gource",
+		"desc": "software version control visualization",
+		"lang": "C++",
+		"stars": 10034
+	},
+	{
+		"slug": "att/ast",
+		"desc": "AST - AT&T Software Technology",
+		"lang": "C",
+		"stars": 475
+	},
+	{
+		"slug": "emscripten-core/emscripten",
+		"desc": "Emscripten: An LLVM-to-WebAssembly Compiler",
+		"lang": "C",
+		"stars": 23522
+	},
+	{
+		"slug": "heimskr/why",
+		"desc": "A somewhat esoteric instruction set architecture, plus an assembler, linker and VM. Not related to WebAssembly.",
+		"lang": "C++",
+		"stars": 5
+	},
+	{
+		"slug": "jenkinsci/pipeline-model-definition-plugin",
+		"lang": "Groovy",
+		"stars": 544
+	},
+	{
+		"slug": "leahneukirchen/redo-c",
+		"desc": "An implementation of the redo build system in portable C with zero dependencies",
+		"lang": "C",
+		"stars": 96
+	},
+	{
+		"slug": "xbgmsharp/ipxe-buildweb",
+		"desc": "iPXE Prebuilt binary web interface",
+		"lang": "Perl",
+		"stars": 144
+	},
+	{
+		"slug": "ipxe/ipxe",
+		"desc": "iPXE network bootloader",
+		"lang": "C",
+		"stars": 1026
+	},
+	{
+		"slug": "openSUSE/open-build-service",
+		"desc": "Build and distribute Linux packages from sources in an automatic, consistent and reproducible way #obs",
+		"lang": "Ruby",
+		"stars": 801
+	},
+	{
+		"slug": "GerritCodeReview/gerrit",
+		"desc": "Gerrit Code Review - (mirror of https://gerrit.googlesource.com/gerrit)",
+		"lang": "Java",
+		"stars": 745
+	}
+]

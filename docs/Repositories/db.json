@@ -1,0 +1,80 @@
+[
+	{
+		"slug": "redis/redis",
+		"desc": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs,…",
+		"lang": "C",
+		"stars": 59148
+	},
+	{
+		"slug": "nocodb/nocodb",
+		"desc": "Open Source Airtable Alternative",
+		"lang": "TypeScript",
+		"stars": 35128
+	},
+	{
+		"slug": "zombodb/zombodb",
+		"desc": "Making Postgres and Elasticsearch work together like it's 2022",
+		"lang": "PLpgSQL",
+		"stars": 4310
+	},
+	{
+		"slug": "lexhide/xandra",
+		"desc": "Fast, simple, and robust Cassandra driver for Elixir.",
+		"lang": "Elixir",
+		"stars": 329
+	},
+	{
+		"slug": "marklogic/node-client-api",
+		"desc": "The MarkLogic Node.js Client API",
+		"lang": "JavaScript",
+		"stars": 52
+	},
+	{
+		"slug": "denodrivers/postgres",
+		"desc": "PostgreSQL driver for Deno",
+		"lang": "TypeScript",
+		"stars": 558
+	},
+	{
+		"slug": "google/trillian",
+		"desc": "A transparent, highly scalable and cryptographically verifiable data store.",
+		"lang": "Go",
+		"stars": 3260
+	},
+	{
+		"slug": "denodrivers/mongo",
+		"desc": "MongoDB driver for Deno",
+		"lang": "TypeScript",
+		"stars": 476
+	},
+	{
+		"slug": "dyedgreen/deno-sqlite",
+		"desc": "Deno SQLite module",
+		"lang": "TypeScript",
+		"stars": 365
+	},
+	{
+		"slug": "tediousjs/node-mssql",
+		"desc": "Microsoft SQL Server client for Node.js",
+		"lang": "JavaScript",
+		"stars": 2096
+	},
+	{
+		"slug": "denodrivers/redis",
+		"desc": "Redis client for Deno",
+		"lang": "TypeScript",
+		"stars": 424
+	},
+	{
+		"slug": "diesel-rs/diesel",
+		"desc": "A safe, extensible ORM and Query Builder for Rust",
+		"lang": "Rust",
+		"stars": 10143
+	},
+	{
+		"slug": "tediousjs/tedious",
+		"desc": "Node TDS module for connecting to SQL Server databases.",
+		"lang": "TypeScript",
+		"stars": 1524
+	}
+]

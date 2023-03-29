@@ -1,0 +1,104 @@
+[
+	{
+		"slug": "fish-shell/fish-shell",
+		"desc": "The user-friendly command line shell.",
+		"lang": "C++",
+		"stars": 21244
+	},
+	{
+		"slug": "elves/elvish",
+		"desc": "Elvish = Expressive Programming Language + Versatile Interactive Shell",
+		"lang": "Go",
+		"stars": 4998
+	},
+	{
+		"slug": "ajeetdsouza/zoxide",
+		"desc": "A smarter cd command. Supports all major shells.",
+		"lang": "Rust",
+		"stars": 9904
+	},
+	{
+		"slug": "starship/starship",
+		"desc": "The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
+		"lang": "Rust",
+		"stars": 33409
+	},
+	{
+		"slug": "charmbracelet/wish",
+		"desc": "Make SSH apps, just like that!",
+		"lang": "Go",
+		"stars": 1980
+	},
+	{
+		"slug": "nushell/nushell",
+		"desc": "A new type of shell",
+		"lang": "Rust",
+		"stars": 24010
+	},
+	{
+		"slug": "oilshell/oil",
+		"desc": "Oil is a new Unix shell. It's our upgrade path from bash to a better language and runtime. It's also for Python and JavaScript users who avoid shell!",
+		"lang": "Python",
+		"stars": 2487
+	},
+	{
+		"slug": "cantino/mcfly",
+		"desc": "Fly through your shell history. Great Scott!",
+		"lang": "Rust",
+		"stars": 5015
+	},
+	{
+		"slug": "shellspec/shellspec",
+		"desc": "A full-featured BDD unit testing framework for bash, ksh, zsh, dash and all POSIX shells",
+		"lang": "Shell",
+		"stars": 848
+	},
+	{
+		"slug": "wryun/es-shell",
+		"desc": "es: a shell with higher-order functions",
+		"lang": "C",
+		"stars": 273
+	},
+	{
+		"slug": "bewuethr/shellcheck-action",
+		"desc": "A GitHub Action to run the shell linter ShellCheck",
+		"lang": "Shell",
+		"stars": 11
+	},
+	{
+		"slug": "dspinellis/dgsh",
+		"desc": "Shell supporting pipelines to and from multiple processes",
+		"lang": "C",
+		"stars": 295
+	},
+	{
+		"slug": "Canop/broot",
+		"desc": "A new way to see and navigate directory trees : https://dystroy.org/broot",
+		"lang": "Rust",
+		"stars": 8470
+	},
+	{
+		"slug": "liljencrantz/crush",
+		"desc": "Crush is a command line shell that is also a powerful modern programming language.",
+		"lang": "Rust",
+		"stars": 1829
+	},
+	{
+		"slug": "susam/tucl",
+		"desc": "The first-ever paper on the Unix shell written by Ken Thompson in 1976 scanned, transcribed, and redistributed with permission",
+		"lang": "Makefile",
+		"stars": 342
+	},
+	{
+		"slug": "TieDyedDevil/XS",
+		"desc": "[ABANDONED] An extensible shell (descended from es and rc) having functional semantics and a conventional syntax.",
+		"lang": "C++",
+		"stars": 49
+	},
+	{
+		"slug": "koreaneggroll/shell",
+		"desc": "a shell written in C",
+		"lang": "C",
+		"stars": 14
+	}
+]

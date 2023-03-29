@@ -1,0 +1,38 @@
+[
+	{
+		"slug": "elk-zone/elk",
+		"desc": "A nimble Mastodon web client",
+		"lang": "Vue",
+		"stars": 3165
+	},
+	{
+		"slug": "bluesky-social/atproto",
+		"desc": "Social networking technology created by Bluesky",
+		"lang": "TypeScript",
+		"stars": 2610
+	},
+	{
+		"slug": "WesSouza/mastodon-flock",
+		"desc": "Let the birds flock to Mastodon",
+		"lang": "TypeScript",
+		"stars": 14
+	},
+	{
+		"slug": "mcpcpc/kirc",
+		"desc": "A tiny IRC client written in POSIX C99.",
+		"lang": "C",
+		"stars": 510
+	},
+	{
+		"slug": "pseudozach/nostr.directory",
+		"desc": "Find people you know from other social media sites on nostr",
+		"lang": "TypeScript",
+		"stars": 118
+	},
+	{
+		"slug": "twitter/communitynotes",
+		"desc": "Documentation and source code powering Twitter's Community Notes",
+		"lang": "Python",
+		"stars": 553
+	}
+]

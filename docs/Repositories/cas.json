@@ -1,0 +1,20 @@
+[
+	{
+		"slug": "jupdike/ti89-emu",
+		"desc": "TI-89 graphing calculator emulated in browser. Fork of a fork of a JavaScript TI-68k emulator with custom TI-89 skin.",
+		"lang": "JavaScript",
+		"stars": 2
+	},
+	{
+		"slug": "xianyi/OpenBLAS",
+		"desc": "OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version.",
+		"lang": "C",
+		"stars": 5079
+	},
+	{
+		"slug": "Qalculate/libqalculate",
+		"desc": "Qalculate! library and CLI",
+		"lang": "C++",
+		"stars": 1244
+	}
+]

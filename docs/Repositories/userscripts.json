@@ -1,0 +1,75 @@
+[
+	{
+		"slug": "JasonBarnabe/greasyfork",
+		"desc": "An online repository of user scripts.",
+		"lang": "Ruby",
+		"stars": 1166
+	},
+
+	{
+		"slug": "insin/control-panel-for-twitter",
+		"desc": "Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - available for desktop and mobile browsers",
+		"lang": "JavaScript",
+		"stars": 1004
+	},
+	{
+		"slug": "Anarios/return-youtube-dislike",
+		"desc": "Chrome extension to return youtube dislikes",
+		"lang": "JavaScript",
+		"stars": 10869
+	},
+	{
+		"slug": "fuddl/wd",
+		"desc": "a browser extension for wikidata",
+		"lang": "JavaScript",
+		"stars": 32
+	},
+	{
+		"slug": "defmethodinc/just-not-sorry",
+		"desc": "Chrome extension that warns you when you write emails using words which undermine your message",
+		"lang": "JavaScript",
+		"stars": 238
+	},
+	{
+		"slug": "lovasoa/dezoomify-extension",
+		"desc": "A browser extension to detect zoomable images in web pages and downloading them with dezoomify",
+		"lang": "JavaScript",
+		"stars": 33
+	},
+	{
+		"slug": "corollari/waspline-reader",
+		"desc": "FOSS version of BeeLine Reader",
+		"lang": "JavaScript",
+		"stars": 77
+	},
+	{
+		"slug": "LuanRT/YouTube.js",
+		"desc": "A wrapper around YouTube's internal API — reverse engineering InnerTube",
+		"lang": "TypeScript",
+		"stars": 2515
+	},
+	{
+		"slug": "osnr/TabFS",
+		"desc": "Mount your browser tabs as a filesystem.",
+		"lang": "JavaScript",
+		"stars": 3673
+	},
+	{
+		"slug": "jsejcksn/userscripts",
+		"desc": "Userscripts for increased web functionality",
+		"lang": "JavaScript",
+		"stars": 3
+	},
+	{
+		"slug": "besuper/TwitchNoSub",
+		"desc": "An extension to show sub only VOD on Twitch",
+		"lang": "JavaScript",
+		"stars": 495
+	},
+	{
+		"slug": "OpenUserJS/OpenUserJS.org",
+		"desc": "The home of FOSS user scripts.",
+		"lang": "JavaScript",
+		"stars": 728
+	}
+]

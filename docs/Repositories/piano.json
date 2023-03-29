@@ -1,0 +1,32 @@
+[
+	{
+		"slug": "state-of-the-art/PianoLights",
+		"desc": "Lighting addon for your piano makes you look like Rousseau from youtube",
+		"lang": "C++",
+		"stars": 4
+	},
+	{
+		"slug": "pianobooster/PianoBooster",
+		"desc": "A MIDI file player/game that displays the musical notes and teaches you how to play the piano.",
+		"lang": "C++",
+		"stars": 305
+	},
+	{
+		"slug": "PolyMeilex/Neothesia",
+		"desc": "Flashy Synthesia Like Software For Linux,Windows and MacOs",
+		"lang": "Rust",
+		"stars": 567
+	},
+	{
+		"slug": "Ameobea/web-synth",
+		"desc": "A web-based sound synthesis, music production, and audio experimentation platform",
+		"lang": "TypeScript",
+		"stars": 296
+	},
+	{
+		"slug": "vsicurella/SuperVirtualKeyboard",
+		"desc": "MIDI Plugin made with JUCE for interacting with microtonal piano layouts",
+		"lang": "C++",
+		"stars": 35
+	}
+]

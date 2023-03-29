@@ -1,0 +1,126 @@
+[
+	{
+		"slug": "remix-run/react-router",
+		"desc": "Declarative routing for React",
+		"lang": "TypeScript",
+		"stars": 49980
+	},
+	{
+		"slug": "exhibitionist-digital/ultra",
+		"desc": "Zero-Legacy Deno/React Suspense SSR Framework",
+		"lang": "TypeScript",
+		"stars": 2907
+	},
+	{
+		"slug": "preactjs/preact",
+		"desc": "Fast 3kB React alternative with the same modern API. Components & Virtual DOM.",
+		"lang": "JavaScript",
+		"stars": 34167
+	},
+	{
+		"slug": "remotion-dev/remotion",
+		"desc": "Make videos programmatically with React",
+		"lang": "TypeScript",
+		"stars": 15604
+	},
+	{
+		"slug": "testing-library/react-testing-library",
+		"desc": "Simple and complete React DOM testing utilities that encourage good testing practices.",
+		"lang": "JavaScript",
+		"stars": 17631
+	},
+	{
+		"slug": "Kudo/react-native-v8",
+		"desc": "Opt-in V8 runtime for React Native Android",
+		"lang": "C++",
+		"stars": 807
+	},
+	{
+		"slug": "maslianok/react-resize-detector",
+		"desc": "A Cross-Browser, Event-based, Element Resize Detection for React",
+		"lang": "TypeScript",
+		"stars": 1084
+	},
+	{
+		"slug": "reactjs/react.dev",
+		"desc": "The React documentation website",
+		"lang": "TypeScript",
+		"stars": 9184
+	},
+	{
+		"slug": "jridgewell/jsx2",
+		"desc": "Just your normal (JSX) syntax, with faster performance and less memory",
+		"lang": "TypeScript",
+		"stars": 25
+	},
+	{
+		"slug": "molefrog/wouter",
+		"desc": "A minimalist-friendly ~1.5KB routing for React and Preact. Nothing else but HOOKS.",
+		"lang": "JavaScript",
+		"stars": 5033
+	},
+	{
+		"slug": "reasonml/reason-react",
+		"desc": "Reason bindings for ReactJS",
+		"lang": "Reason",
+		"stars": 3142
+	},
+	{
+		"slug": "reactjs/rfcs",
+		"desc": "RFCs for changes to React",
+		"stars": 4898
+	},
+	{
+		"slug": "rescript-lang/rescript-react",
+		"desc": "Official ReScript bindings for ReactJS",
+		"lang": "ReScript",
+		"stars": 397
+	},
+	{
+		"slug": "ivanceras/sauron",
+		"desc": "A versatile web framework and library for building client-side and server-side web applications",
+		"lang": "Rust",
+		"stars": 1750
+	},
+	{
+		"slug": "MoonHighway/learning-react",
+		"desc": "The code samples for Learning React by Alex Banks and Eve Porcello, published by O'Reilly Media",
+		"lang": "JavaScript",
+		"stars": 3241
+	},
+	{
+		"slug": "pmmmwh/react-refresh-webpack-plugin",
+		"desc": "A Webpack plugin to enable \"Fast Refresh\" (also previously known as Hot Reloading) for React components.",
+		"lang": "JavaScript",
+		"stars": 2917
+	},
+	{
+		"slug": "lucacasonato/dext.ts",
+		"desc": "The Preact Framework for Deno",
+		"lang": "TypeScript",
+		"stars": 242
+	},
+	{
+		"slug": "oliviertassinari/babel-plugin-transform-react-remove-prop-types",
+		"desc": "Remove unnecessary React propTypes from the production build.",
+		"lang": "JavaScript",
+		"stars": 898
+	},
+	{
+		"slug": "reactwg/react-18",
+		"desc": "Workgroup for React 18 release.",
+		"stars": 4985
+	},
+	{
+		"slug": "recharts/react-smooth",
+		"desc": "react animation",
+		"lang": "JavaScript",
+		"stars": 267
+	},
+	{
+		"slug": "reduxjs/redux-thunk",
+		"desc": "Thunk middleware for Redux",
+		"lang": "TypeScript",
+		"stars": 17551
+	}
+]

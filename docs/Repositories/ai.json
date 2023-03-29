@@ -1,0 +1,180 @@
+[
+	{
+		"slug": "iperov/DeepFaceLab",
+		"desc": "DeepFaceLab is the leading software for creating deepfakes.",
+		"lang": "Python",
+		"stars": 38198
+	},
+	{
+		"slug": "MachineEditor/MachineVideoEditor",
+		"desc": "This repository does not contain code, its purpose it for issue tracking and wiki",
+		"stars": 263
+	},
+	{
+		"slug": "jantic/DeOldify",
+		"desc": "A Deep Learning based project for colorizing and restoring old images (and video!)",
+		"lang": "Python",
+		"stars": 16369
+	},
+	{
+		"slug": "LAION-AI/Open-Assistant",
+		"desc": "OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.",
+		"lang": "Python",
+		"stars": 20060
+	},
+	{
+		"slug": "Nutlope/aicommits",
+		"desc": "A CLI that writes your git commit messages for you with AI",
+		"lang": "TypeScript",
+		"stars": 4564
+	},
+	{
+		"slug": "dan-kwiat/openai-edge",
+		"lang": "TypeScript",
+		"stars": 32
+	},
+	{
+		"slug": "deezer/spleeter",
+		"desc": "Deezer source separation library including pretrained models.",
+		"lang": "Python",
+		"stars": 22040
+	},
+	{
+		"slug": "facebookresearch/llama",
+		"desc": "Inference code for LLaMA models",
+		"lang": "Python",
+		"stars": 14918
+	},
+	{
+		"slug": "bigscience-workshop/petals",
+		"desc": "Run 100B+ language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading",
+		"lang": "Python",
+		"stars": 4221
+	},
+	{
+		"slug": "espeak-ng/espeak-ng",
+		"desc": "eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.",
+		"lang": "C",
+		"stars": 1866
+	},
+	{
+		"slug": "eto-ai/lance",
+		"desc": "Modern columnar data format for ML implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Pol…",
+		"lang": "Rust",
+		"stars": 1358
+	},
+	{
+		"slug": "gnina/gnina",
+		"desc": "A deep learning framework for molecular docking",
+		"lang": "C++",
+		"stars": 400
+	},
+	{
+		"slug": "google/sentencepiece",
+		"desc": "Unsupervised text tokenizer for Neural Network-based text generation.",
+		"lang": "C++",
+		"stars": 6927
+	},
+	{
+		"slug": "google/vizier",
+		"desc": "Python-based research interface for blackbox and hyperparameter optimization, based on the internal Google Vizier Service.",
+		"lang": "Python",
+		"stars": 998
+	},
+	{
+		"slug": "hpcaitech/ColossalAI",
+		"desc": "Making large AI models cheaper, faster and more accessible",
+		"lang": "Python",
+		"stars": 21408
+	},
+	{
+		"slug": "Nutlope/roomGPT",
+		"desc": "Upload a photo of your room to generate your dream room with AI.",
+		"lang": "TypeScript",
+		"stars": 6264
+	},
+	{
+		"slug": "Nutlope/twitterbio",
+		"desc": "Generate your Twitter bio with ChatGPT and Vercel Edge Functions.",
+		"lang": "TypeScript",
+		"stars": 1054
+	},
+	{
+		"slug": "NVIDIA/FasterTransformer",
+		"desc": "Transformer related optimization, including BERT, GPT",
+		"lang": "C++",
+		"stars": 2568
+	},
+	{
+		"slug": "openai/openai-node",
+		"desc": "Node.js library for the OpenAI API",
+		"lang": "TypeScript",
+		"stars": 2635
+	},
+	{
+		"slug": "codota/TabNine",
+		"desc": "AI Code Completions",
+		"lang": "Shell",
+		"stars": 9857
+	},
+	{
+		"slug": "CompVis/latent-diffusion",
+		"desc": "High-Resolution Image Synthesis with Latent Diffusion Models",
+		"lang": "Jupyter Notebook",
+		"stars": 6796
+	},
+	{
+		"slug": "microsoft/DeepSpeed",
+		"desc": "DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.",
+		"lang": "Python",
+		"stars": 9881
+	},
+	{
+		"slug": "Stability-AI/stablediffusion",
+		"desc": "High-Resolution Image Synthesis with Latent Diffusion Models",
+		"lang": "Python",
+		"stars": 16322
+	},
+	{
+		"slug": "Hesse/gitgpt",
+		"desc": "A natural language command line git assistant",
+		"lang": "Go",
+		"stars": 180
+	},
+	{
+		"slug": "mml-book/mml-book.github.io",
+		"desc": "Companion webpage to the book \"Mathematics For Machine Learning\"",
+		"lang": "Jupyter Notebook",
+		"stars": 10844
+	},
+	{
+		"slug": "charles-r-earp/autograph",
+		"desc": "Machine Learning Library for Rust",
+		"lang": "Rust",
+		"stars": 229
+	},
+	{
+		"slug": "denosaurs/neo",
+		"desc": "Matrix and other math, accelerated by WebGPU and WASM",
+		"lang": "TypeScript",
+		"stars": 56
+	},
+	{
+		"slug": "denosaurs/netsaur",
+		"desc": "Powerful machine learning, accelerated by WebGPU",
+		"lang": "TypeScript",
+		"stars": 122
+	},
+	{
+		"slug": "neuronika/neuronika",
+		"desc": "Tensors and dynamic neural networks in pure Rust.",
+		"lang": "Rust",
+		"stars": 918
+	},
+	{
+		"slug": "mozilla/DeepSpeech",
+		"desc": "DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.",
+		"lang": "C++",
+		"stars": 21470
+	}
+]

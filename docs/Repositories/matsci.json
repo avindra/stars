@@ -1,0 +1,61 @@
+[
+	{
+		"slug": "OpenMatrixLanguage/OpenMatrix",
+		"lang": "C",
+		"stars": 35
+	},
+	{
+		"slug": "keesey/phylopic",
+		"desc": "Central repository for PhyloPic",
+		"lang": "TypeScript",
+		"stars": 10
+	},
+	{
+		"slug": "mateoconlechuga/cesium",
+		"desc": "A GUI shell for the TI-84+CE",
+		"lang": "Pascal",
+		"stars": 174
+	},
+	{
+		"slug": "gentoo/sci",
+		"desc": "[MIRROR] Gentoo Science Overlay",
+		"lang": "Shell",
+		"stars": 141
+	},
+	{
+		"slug": "lzanini/mdbook-katex",
+		"desc": "A preprocessor for mdBook, rendering LaTex equations to HTML at build time.",
+		"lang": "Rust",
+		"stars": 125
+	},
+	{
+		"slug": "Mysticial/y-cruncher",
+		"desc": "Bug-Tracking and open-sourced parts of y-cruncher.",
+		"lang": "C++",
+		"stars": 106
+	},
+	{
+		"slug": "cando-developers/cando",
+		"desc": "Cando chemistry language",
+		"lang": "C++",
+		"stars": 131
+	},
+	{
+		"slug": "bbodi/notecalc3",
+		"desc": "NoteCalc is a handy calculator trying to bring the advantages of Soulver to the web.",
+		"lang": "Rust",
+		"stars": 1115
+	},
+	{
+		"slug": "mitmath/1806",
+		"desc": "18.06 course at MIT",
+		"lang": "Jupyter Notebook",
+		"stars": 1722
+	},
+	{
+		"slug": "xaos-project/XaoS",
+		"desc": "Real-time interactive fractal zoomer",
+		"lang": "C++",
+		"stars": 415
+	}
+]

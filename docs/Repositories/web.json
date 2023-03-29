@@ -1,0 +1,331 @@
+[
+	{
+		"slug": "remix-run/history",
+		"desc": "Manage session history with JavaScript",
+		"lang": "JavaScript",
+		"stars": 8124
+	},
+	{
+		"slug": "styfle/packagephobia",
+		"desc": "Find the cost of adding a new dependency to your project",
+		"lang": "TypeScript",
+		"stars": 1924
+	},
+	{
+		"slug": "rome/tools",
+		"desc": "Unified developer tools for JavaScript, TypeScript, and the web",
+		"lang": "Rust",
+		"stars": 22997
+	},
+	{
+		"slug": "bikeshaving/crank",
+		"desc": "The Just JavaScript Framework",
+		"lang": "TypeScript",
+		"stars": 2536
+	},
+	{
+		"slug": "acss-io/atomizer",
+		"desc": "A library to create small, reusable CSS that scales as your website grows.",
+		"lang": "JavaScript",
+		"stars": 1455
+	},
+	{
+		"slug": "clod81/block_service_workers",
+		"desc": "Extension to block Service Workers registration in Chrome (also see https://shadow-workers.github.io )",
+		"lang": "JavaScript",
+		"stars": 38
+	},
+	{
+		"slug": "insin/react-maskedinput",
+		"desc": "Masked <input/> React component",
+		"lang": "JavaScript",
+		"stars": 726
+	},
+	{
+		"slug": "leptos-rs/leptos",
+		"desc": "Build fast web applications with Rust.",
+		"lang": "Rust",
+		"stars": 7597
+	},
+	{
+		"slug": "graphql/graphiql",
+		"desc": "GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.",
+		"lang": "TypeScript",
+		"stars": 14788
+	},
+	{
+		"slug": "trpc/trpc",
+		"desc": "Move Fast and Break Nothing. End-to-end typesafe APIs made easy.",
+		"lang": "TypeScript",
+		"stars": 23545
+	},
+	{
+		"slug": "getzola/zola",
+		"desc": "A fast static site generator in a single binary with everything built-in. https://www.getzola.org",
+		"lang": "Rust",
+		"stars": 10618
+	},
+	{
+		"slug": "highlightjs/highlight.js",
+		"desc": "JavaScript syntax highlighter with language auto-detection and zero dependencies.",
+		"lang": "JavaScript",
+		"stars": 21253
+	},
+	{
+		"slug": "kysely-org/kysely",
+		"desc": "A type-safe typescript SQL query builder",
+		"lang": "TypeScript",
+		"stars": 4420
+	},
+	{
+		"slug": "mullvad/mullvadvpn-app",
+		"desc": "The Mullvad VPN client app for desktop and mobile",
+		"lang": "Rust",
+		"stars": 3326
+	},
+	{
+		"slug": "quinn-rs/quinn",
+		"desc": "Async-friendly QUIC implementation in Rust",
+		"lang": "Rust",
+		"stars": 2709
+	},
+	{
+		"slug": "WebReflection/linkedom",
+		"desc": "A triple-linked lists based DOM implementation.",
+		"lang": "HTML",
+		"stars": 1126
+	},
+	{
+		"slug": "AkaraChen/seaweed",
+		"desc": "The next generation component library based on web components.",
+		"lang": "TypeScript",
+		"stars": 12
+	},
+	{
+		"slug": "chromium/badssl.com",
+		"desc": "Memorable site for testing clients against bad SSL configs.",
+		"lang": "HTML",
+		"stars": 2520
+	},
+	{
+		"slug": "cloudflare/quiche",
+		"desc": "Savoury implementation of the QUIC transport protocol and HTTP/3",
+		"lang": "Rust",
+		"stars": 7433
+	},
+	{
+		"slug": "hotwired/stimulus",
+		"desc": "A modest JavaScript framework for the HTML you already have",
+		"lang": "TypeScript",
+		"stars": 11893
+	},
+	{
+		"slug": "GoogleChrome/web.dev",
+		"desc": "The frontend, backend, and content source code for web.dev",
+		"lang": "Nunjucks",
+		"stars": 3275
+	},
+	{
+		"slug": "minbrowser/min",
+		"desc": "A fast, minimal browser that protects your privacy",
+		"lang": "JavaScript",
+		"stars": 6485
+	},
+	{
+		"slug": "openSUSE/MirrorCache",
+		"desc": "Download Redirector",
+		"lang": "Perl",
+		"stars": 24
+	},
+	{
+		"slug": "oxen-io/lokinet",
+		"desc": "Lokinet is an anonymous, decentralized and IP based overlay network for the internet.",
+		"lang": "C++",
+		"stars": 1393
+	},
+	{
+		"slug": "prerender/prerender",
+		"desc": "Node server that uses Headless Chrome to render a javascript-rendered page as HTML. To be used in conjunction with prerender middleware.",
+		"lang": "JavaScript",
+		"stars": 6237
+	},
+	{
+		"slug": "publicsuffix/list",
+		"desc": "The Public Suffix List",
+		"lang": "Go",
+		"stars": 1571
+	},
+	{
+		"slug": "ripienaar/free-for-dev",
+		"desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+		"lang": "HTML",
+		"stars": 68026
+	},
+	{
+		"slug": "roobert/tailwindcss-colorizer-cmp.nvim",
+		"desc": "A Neovim plugin to add vscode-style TailwindCSS completion to nvim-cmp",
+		"lang": "Lua",
+		"stars": 167
+	},
+	{
+		"slug": "rustwasm/wasm-pack",
+		"desc": "your favorite rust -> wasm workflow tool!",
+		"lang": "Rust",
+		"stars": 5043
+	},
+	{
+		"slug": "ddosify/ddosify",
+		"desc": "High-performance load testing tool, written in Golang. For distributed and Geo-targeted load testing: Ddosify Cloud - https://ddosify.com",
+		"lang": "Go",
+		"stars": 6228
+	},
+	{
+		"slug": "graphql-nexus/nexus",
+		"desc": "Code-First, Type-Safe, GraphQL Schema Construction",
+		"lang": "TypeScript",
+		"stars": 3240
+	},
+	{
+		"slug": "suborbital/sat",
+		"desc": "Tiny & fast WebAssembly edge compute server",
+		"lang": "Go",
+		"stars": 331
+	},
+	{
+		"slug": "WebAssembly/design",
+		"desc": "WebAssembly Design Documents",
+		"stars": 11168
+	},
+	{
+		"slug": "WebAssembly/spec",
+		"desc": "WebAssembly specification, reference interpreter, and test suite.",
+		"lang": "WebAssembly",
+		"stars": 2868
+	},
+	{
+		"slug": "wg/wrk",
+		"desc": "Modern HTTP benchmarking tool",
+		"lang": "C",
+		"stars": 34136
+	},
+	{
+		"slug": "b-fuze/deno-dom",
+		"desc": "Browser DOM & HTML parser in Deno",
+		"lang": "HTML",
+		"stars": 326
+	},
+	{
+		"slug": "facebook/docusaurus",
+		"desc": "Easy to maintain open source documentation websites.",
+		"lang": "TypeScript",
+		"stars": 43297
+	},
+	{
+		"slug": "wasm3/wasm3",
+		"desc": "A fast WebAssembly interpreter and the most universal WASM runtime",
+		"lang": "C",
+		"stars": 5972
+	},
+	{
+		"slug": "antoyo/titanium",
+		"desc": "A keyboard-driven web browser written in Rust",
+		"lang": "Rust",
+		"stars": 210
+	},
+	{
+		"slug": "WebAssembly/binaryen",
+		"desc": "Optimizer and compiler/toolchain library for WebAssembly",
+		"lang": "WebAssembly",
+		"stars": 6288
+	},
+	{
+		"slug": "atlassian-labs/compiled",
+		"desc": "A familiar and performant compile time CSS-in-JS library for React.",
+		"lang": "TypeScript",
+		"stars": 1835
+	},
+	{
+		"slug": "leaningtech/cheerp-meta",
+		"desc": "Cheerp - a C/C++ compiler for Web applications - compiles to WebAssembly and JavaScript",
+		"lang": "C++",
+		"stars": 824
+	},
+	{
+		"slug": "mblode/marx",
+		"desc": "The classless CSS reset (perfect for Communists).",
+		"lang": "CSS",
+		"stars": 1624
+	},
+	{
+		"slug": "rustwasm/rust-webpack-template",
+		"desc": "Kickstart your Rust, WebAssembly, and Webpack project!",
+		"lang": "JavaScript",
+		"stars": 519
+	},
+	{
+		"slug": "litespeedtech/openlitespeed",
+		"desc": "Our high-performance, lightweight, open source HTTP server",
+		"lang": "C++",
+		"stars": 899
+	},
+	{
+		"slug": "microsoft/playwright",
+		"desc": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.",
+		"lang": "TypeScript",
+		"stars": 49097
+	},
+	{
+		"slug": "routerify/routerify",
+		"desc": "A lightweight, idiomatic, composable and modular router implementation with middleware support for the Rust HTTP library hyper.rs",
+		"lang": "Rust",
+		"stars": 365
+	},
+	{
+		"slug": "lit/lit",
+		"desc": "Lit is a simple library for building fast, lightweight web components.",
+		"lang": "TypeScript",
+		"stars": 14139
+	},
+	{
+		"slug": "mit-pdos/noria",
+		"desc": "Fast web applications through dynamic, partially-stateful dataflow",
+		"lang": "Rust",
+		"stars": 4625
+	},
+	{
+		"slug": "cheeriojs/cheerio",
+		"desc": "The fast, flexible, and elegant library for parsing and manipulating HTML and XML.",
+		"lang": "TypeScript",
+		"stars": 26135
+	},
+	{
+		"slug": "bloodyowl/rescript-express",
+		"desc": "Experimental (nearly zero-cost) bindings to express",
+		"lang": "ReScript",
+		"stars": 70
+	},
+	{
+		"slug": "withastro/astro",
+		"desc": "The all-in-one web framework designed for speed.  Star to support our work!",
+		"lang": "TypeScript",
+		"stars": 28849
+	},
+	{
+		"slug": "axel-download-accelerator/axel",
+		"desc": "Lightweight CLI download accelerator",
+		"lang": "C",
+		"stars": 2444
+	},
+	{
+		"slug": "writefreely/writefreely",
+		"desc": "A clean, Markdown-based publishing platform made for writers. Write together and build a community.",
+		"lang": "Go",
+		"stars": 3466
+	},
+	{
+		"slug": "OAI/OpenAPI-Specification",
+		"desc": "The OpenAPI Specification Repository",
+		"lang": "JavaScript",
+		"stars": 26108
+	}
+]

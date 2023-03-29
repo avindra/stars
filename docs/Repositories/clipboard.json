@@ -1,0 +1,20 @@
+[
+	{
+		"slug": "Slackadays/Clipboard",
+		"desc": "Your external brain that remembers anything, anytime, anywhere. Save time and effort the 𝗲𝗮𝘀𝘆 way!",
+		"lang": "C++",
+		"stars": 3048
+	},
+	{
+		"slug": "dacap/clip",
+		"desc": "Cross-platform C++ library to copy/paste clipboard content",
+		"lang": "C++",
+		"stars": 511
+	},
+	{
+		"slug": "cdown/clipmenu",
+		"desc": "Clipboard management using dmenu",
+		"lang": "Shell",
+		"stars": 948
+	}
+]

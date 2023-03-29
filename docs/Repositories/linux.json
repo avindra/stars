@@ -1,0 +1,336 @@
+[
+	{
+		"slug": "microsoft/CBL-Mariner",
+		"desc": "Linux OS for Azure 1P services and edge appliances",
+		"lang": "RPM Spec",
+		"stars": 3591
+	},
+	{
+		"slug": "NVIDIA/open-gpu-kernel-modules",
+		"desc": "NVIDIA Linux open GPU kernel module source",
+		"lang": "C",
+		"stars": 12970
+	},
+	{
+		"slug": "rpm-software-management/rpm",
+		"lang": "C",
+		"stars": 406
+	},
+	{
+		"slug": "sudo-project/sudo",
+		"desc": "Utility to execute a command as another user",
+		"lang": "C",
+		"stars": 744
+	},
+	{
+		"slug": "wwmm/easyeffects",
+		"desc": "Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications",
+		"lang": "C++",
+		"stars": 4601
+	},
+	{
+		"slug": "checkpoint-restore/criu",
+		"desc": "Checkpoint/Restore tool",
+		"lang": "C",
+		"stars": 2102
+	},
+	{
+		"slug": "conformal/spectrwm",
+		"desc": "A small dynamic tiling window manager for X11.",
+		"lang": "C",
+		"stars": 1198
+	},
+	{
+		"slug": "FeralInteractive/gamemode",
+		"desc": "Optimise Linux system performance on demand",
+		"lang": "C",
+		"stars": 3691
+	},
+	{
+		"slug": "tokio-rs/io-uring",
+		"desc": "The `io_uring` library for Rust",
+		"lang": "Rust",
+		"stars": 861
+	},
+	{
+		"slug": "tchx84/Flatseal",
+		"desc": "Manage Flatpak permissions",
+		"lang": "JavaScript",
+		"stars": 746
+	},
+	{
+		"slug": "fosslinux/live-bootstrap",
+		"desc": "Use of a Linux initramfs to fully automate the bootstrapping process",
+		"lang": "Shell",
+		"stars": 210
+	},
+	{
+		"slug": "dracutdevs/dracut",
+		"desc": "dracut the event driven initramfs infrastructure",
+		"lang": "Shell",
+		"stars": 395
+	},
+	{
+		"slug": "google/syzkaller",
+		"desc": "syzkaller is an unsupervised coverage-guided kernel fuzzer",
+		"lang": "Go",
+		"stars": 4630
+	},
+	{
+		"slug": "jbruchon/elks",
+		"desc": "Embeddable Linux Kernel Subset",
+		"lang": "C",
+		"stars": 721
+	},
+	{
+		"slug": "megastep/makeself",
+		"desc": "A self-extracting archiving tool for Unix systems, in 100% shell script.",
+		"lang": "Shell",
+		"stars": 1854
+	},
+	{
+		"slug": "openSUSE/libzypp",
+		"desc": "ZYpp Package Management library",
+		"lang": "C++",
+		"stars": 103
+	},
+	{
+		"slug": "openSUSE/opi",
+		"desc": "OBS Package Installer (CLI)",
+		"lang": "Python",
+		"stars": 171
+	},
+	{
+		"slug": "13-CF/afetch",
+		"desc": "Simple system info written in C",
+		"lang": "C",
+		"stars": 203
+	},
+	{
+		"slug": "raboof/nethogs",
+		"desc": "Linux 'net top' tool",
+		"lang": "C++",
+		"stars": 2599
+	},
+	{
+		"slug": "repology/repology-rules",
+		"desc": "Package normalization ruleset for Repology",
+		"lang": "Python",
+		"stars": 82
+	},
+	{
+		"slug": "rpm-software-management/libdnf",
+		"desc": "Package management library.",
+		"lang": "C++",
+		"stars": 158
+	},
+	{
+		"slug": "RustScan/RustScan",
+		"desc": "The Modern Port Scanner",
+		"lang": "Rust",
+		"stars": 9579
+	},
+	{
+		"slug": "berthubert/googerteller",
+		"desc": "audible feedback on just how much your browsing feeds into google",
+		"lang": "C++",
+		"stars": 2025
+	},
+	{
+		"slug": "clearlinux/clr-boot-manager",
+		"desc": "Kernel & Boot Loader Management",
+		"lang": "C",
+		"stars": 104
+	},
+	{
+		"slug": "garywill/linux-router",
+		"desc": "Set Linux as router in one command. Support Internet sharing, redsocks, Wifi hotspot, IPv6. Can also be used for routing VM/containers",
+		"lang": "Shell",
+		"stars": 1093
+	},
+	{
+		"slug": "JoseExposito/touchegg",
+		"desc": "Linux multi-touch gesture recognizer",
+		"lang": "C++",
+		"stars": 3066
+	},
+	{
+		"slug": "onetrueawk/awk",
+		"desc": "One true awk",
+		"lang": "C",
+		"stars": 1595
+	},
+	{
+		"slug": "openSUSE/libsolv",
+		"desc": "Library for solving packages and reading repositories",
+		"lang": "C",
+		"stars": 435
+	},
+	{
+		"slug": "procyon-projects/chrono",
+		"desc": "Chrono is a scheduler library that lets you run your task and code periodically",
+		"lang": "Go",
+		"stars": 390
+	},
+	{
+		"slug": "tuxera/ntfs-3g",
+		"desc": "NTFS-3G Safe Read/Write NTFS Driver",
+		"lang": "C",
+		"stars": 525
+	},
+	{
+		"slug": "v-byte-cpu/sx",
+		"desc": "Fast, modern, easy-to-use network scanner",
+		"lang": "Go",
+		"stars": 1273
+	},
+	{
+		"slug": "benjamimgois/goverlay",
+		"desc": "GOverlay is an opensource project that aims to create a Graphical UI to help manage Linux overlays.",
+		"lang": "Pascal",
+		"stars": 202
+	},
+	{
+		"slug": "chmln/sd",
+		"desc": "Intuitive find & replace CLI (sed alternative)",
+		"lang": "Rust",
+		"stars": 4292
+	},
+	{
+		"slug": "cronie-crond/cronie",
+		"desc": "Cronie cron daemon project",
+		"lang": "C",
+		"stars": 369
+	},
+	{
+		"slug": "strace/strace",
+		"desc": "strace is a diagnostic, debugging and instructional userspace utility for Linux",
+		"lang": "C",
+		"stars": 1720
+	},
+	{
+		"slug": "ringbahn/iou",
+		"desc": "Rust interface to io_uring",
+		"lang": "Rust",
+		"stars": 311
+	},
+	{
+		"slug": "teslamotors/linux",
+		"desc": "Linux sources",
+		"lang": "C",
+		"stars": 1133
+	},
+	{
+		"slug": "tvrzna/emptty",
+		"desc": "Dead simple CLI Display Manager on TTY",
+		"lang": "Go",
+		"stars": 503
+	},
+	{
+		"slug": "gnif/vendor-reset",
+		"desc": "Linux kernel vendor specific hardware reset module for sequences that are too complex/complicated to land in pci_quirks.c",
+		"lang": "C",
+		"stars": 590
+	},
+	{
+		"slug": "gnif/LGMP",
+		"desc": "A shared memory message based broadcast system using atomic interlocking.",
+		"lang": "C",
+		"stars": 24
+	},
+	{
+		"slug": "dunst-project/dunst",
+		"desc": "Lightweight and customizable notification daemon",
+		"lang": "C",
+		"stars": 3716
+	},
+	{
+		"slug": "bmwiedemann/openSUSE",
+		"desc": "public mirror of openSUSE sources from build.opensuse.org",
+		"stars": 28
+	},
+	{
+		"slug": "bryansteiner/gpu-passthrough-tutorial",
+		"lang": "Shell",
+		"stars": 931
+	},
+	{
+		"slug": "davatorium/rofi",
+		"desc": "Rofi: A window switcher, application launcher and dmenu replacement",
+		"lang": "C",
+		"stars": 10883
+	},
+	{
+		"slug": "distr1/distri",
+		"desc": "a Linux distribution to research fast package management",
+		"lang": "Go",
+		"stars": 500
+	},
+	{
+		"slug": "jubalh/awesome-package-maintainer",
+		"desc": "How to become a packager",
+		"stars": 241
+	},
+	{
+		"slug": "manjaro/release-plan",
+		"desc": "Roadmap for our Manjaro install media releases",
+		"stars": 86
+	},
+	{
+		"slug": "PipeWire/pipewire",
+		"desc": "Mirror of the PipeWire repository (see https://gitlab.freedesktop.org/pipewire/pipewire/)",
+		"lang": "C",
+		"stars": 1542
+	},
+	{
+		"slug": "redhat-developer/rpm-packaging-guide",
+		"desc": "RPM Packaging Guide",
+		"stars": 232
+	},
+	{
+		"slug": "sayan01/scripts",
+		"desc": "scripts",
+		"lang": "Shell",
+		"stars": 118
+	},
+	{
+		"slug": "tamirzb/xgetres",
+		"desc": "Simple utility which prints the value of an X resource",
+		"lang": "C",
+		"stars": 22
+	},
+	{
+		"slug": "ugtrain/ugtrain",
+		"desc": "The Universal Elite Game Trainer for CLI (Linux game trainer research project)",
+		"lang": "C++",
+		"stars": 132
+	},
+	{
+		"slug": "lnussel/lnussel.github.io",
+		"lang": "HTML",
+		"stars": 3
+	},
+	{
+		"slug": "util-linux/util-linux",
+		"lang": "C",
+		"stars": 2080
+	},
+	{
+		"slug": "NixOS/nixpkgs",
+		"desc": "Nix Packages collection",
+		"lang": "Nix",
+		"stars": 11767
+	},
+	{
+		"slug": "mie00/spleeter-realtime",
+		"desc": "Run spleeter as a pulseaudio plugin in realtime",
+		"lang": "C",
+		"stars": 6
+	},
+	{
+		"slug": "rfc1036/whois",
+		"desc": "Intelligent WHOIS client",
+		"lang": "C",
+		"stars": 372
+	}
+]

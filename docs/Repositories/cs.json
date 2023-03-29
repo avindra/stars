@@ -1,0 +1,447 @@
+[
+	{
+		"slug": "trekhleb/javascript-algorithms",
+		"desc": "Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+		"lang": "JavaScript",
+		"stars": 165622
+	},
+	{
+		"slug": "acl-org/acl-anthology",
+		"desc": "Data and software for building the ACL Anthology.",
+		"lang": "Python",
+		"stars": 256
+	},
+	{
+		"slug": "kyren/gc-arena",
+		"desc": "Experimental system for rust garbage collection",
+		"lang": "Rust",
+		"stars": 167
+	},
+	{
+		"slug": "p-org/P",
+		"desc": "The P programming language.",
+		"lang": "C#",
+		"stars": 2711
+	},
+	{
+		"slug": "rayon-rs/rayon",
+		"desc": "Rayon: A data parallelism library for Rust",
+		"lang": "Rust",
+		"stars": 8380
+	},
+	{
+		"slug": "revng/revng",
+		"desc": "revng: the core repository of the rev.ng project",
+		"lang": "C++",
+		"stars": 696
+	},
+	{
+		"slug": "rust-lang/miri",
+		"desc": "An interpreter for Rust's mid-level intermediate representation",
+		"lang": "Rust",
+		"stars": 3117
+	},
+	{
+		"slug": "unicode-org/icu",
+		"desc": "The home of the ICU project source code.",
+		"lang": "C++",
+		"stars": 1887
+	},
+	{
+		"slug": "VcDevel/std-simd",
+		"desc": "std::experimental::simd for GCC [ISO/IEC TS 19570:2018]",
+		"lang": "C++",
+		"stars": 472
+	},
+	{
+		"slug": "microsoft/pyright",
+		"desc": "Static Type Checker for Python",
+		"lang": "Python",
+		"stars": 9959
+	},
+	{
+		"slug": "natalie-lang/natalie",
+		"desc": "a unique Ruby implementation, compiled to C++ (WIP)",
+		"lang": "Ruby",
+		"stars": 774
+	},
+	{
+		"slug": "kostya/benchmarks",
+		"desc": "Some benchmarks of different languages",
+		"lang": "Makefile",
+		"stars": 2546
+	},
+	{
+		"slug": "lu-zero/cargo-c",
+		"desc": "build and install C-compatible libraries",
+		"lang": "Rust",
+		"stars": 360
+	},
+	{
+		"slug": "extism/extism",
+		"desc": "The Universal Plug-in System. Extend anything with WebAssembly (wasm).",
+		"lang": "Rust",
+		"stars": 1830
+	},
+	{
+		"slug": "google/starlark-go",
+		"desc": "Starlark in Go: the Starlark configuration language, implemented in Go",
+		"lang": "Go",
+		"stars": 1883
+	},
+	{
+		"slug": "hanabi1224/Programming-Language-Benchmarks",
+		"desc": "Yet another implementation of computer language benchmarks game",
+		"lang": "C#",
+		"stars": 386
+	},
+	{
+		"slug": "rossberg/hamlet",
+		"desc": "SML reference interpreter",
+		"lang": "Standard ML",
+		"stars": 99
+	},
+	{
+		"slug": "rotty/lexpr-rs",
+		"desc": "Rust Lisp expression parser and serializer",
+		"lang": "Rust",
+		"stars": 129
+	},
+	{
+		"slug": "rust-lang/compiler-team",
+		"desc": "A home for compiler team planning documents, meeting minutes, and other such things.",
+		"lang": "HTML",
+		"stars": 329
+	},
+	{
+		"slug": "smoltcp-rs/smoltcp",
+		"desc": "a smol tcp/ip stack",
+		"lang": "Rust",
+		"stars": 2943
+	},
+	{
+		"slug": "Dhghomon/easy_rust",
+		"desc": "Rust explained using easy English",
+		"lang": "Shell",
+		"stars": 7444
+	},
+	{
+		"slug": "google/rune",
+		"desc": "Rune is a programming language developed to test ideas for improving security and efficiency.",
+		"lang": "C",
+		"stars": 1903
+	},
+	{
+		"slug": "goplus/gop",
+		"desc": "The Go+ programming language is designed for engineering, STEM education, and data science.",
+		"lang": "Go",
+		"stars": 8424
+	},
+	{
+		"slug": "johnsonjh/duma",
+		"desc": "duma: Detect Unintended Memory Access (D.U.M.A.) - A Red-Zone memory allocator",
+		"lang": "C",
+		"stars": 63
+	},
+	{
+		"slug": "lifting-bits/remill",
+		"desc": "Library for lifting machine code to LLVM bitcode",
+		"lang": "C++",
+		"stars": 960
+	},
+	{
+		"slug": "pfsense/pfsense",
+		"desc": "Main repository for pfSense",
+		"lang": "PHP",
+		"stars": 4125
+	},
+	{
+		"slug": "racketscript/racketscript",
+		"desc": "Racket to JavaScript Compiler",
+		"lang": "Racket",
+		"stars": 653
+	},
+	{
+		"slug": "rui314/chibicc",
+		"desc": "A small C compiler",
+		"lang": "C",
+		"stars": 7306
+	},
+	{
+		"slug": "sagiegurari/duckscript",
+		"desc": "Simple, extendable and embeddable scripting language.",
+		"lang": "Rust",
+		"stars": 385
+	},
+	{
+		"slug": "seankross/the-unix-workbench",
+		"desc": "A Book for Anyone to Get Started with Unix",
+		"lang": "CSS",
+		"stars": 1211
+	},
+	{
+		"slug": "simd-lite/simd-json",
+		"desc": "Rust port of simdjson",
+		"lang": "Rust",
+		"stars": 797
+	},
+	{
+		"slug": "adonovan/gopl.io",
+		"desc": "Example programs from \"The Go Programming Language\"",
+		"lang": "Go",
+		"stars": 6805
+	},
+	{
+		"slug": "ericdrowell/BigOCheatSheet",
+		"lang": "HTML",
+		"stars": 1005
+	},
+	{
+		"slug": "EtchedPixels/FUZIX",
+		"desc": "FuzixOS: Because Small Is Beautiful",
+		"lang": "C",
+		"stars": 1928
+	},
+	{
+		"slug": "illumos/illumos-gate",
+		"desc": "An open-source Unix operating system",
+		"lang": "C",
+		"stars": 1334
+	},
+	{
+		"slug": "johnthagen/min-sized-rust",
+		"desc": "How to minimize Rust binary size",
+		"lang": "Rust",
+		"stars": 5297
+	},
+	{
+		"slug": "smlhelp/book",
+		"desc": "deployment for smlhelp page",
+		"lang": "TeX",
+		"stars": 20
+	},
+	{
+		"slug": "heroku/12factor",
+		"lang": "CSS",
+		"stars": 3368
+	},
+	{
+		"slug": "Veykril/tlborm",
+		"desc": "The Little Book of Rust Macros (updated fork)",
+		"lang": "HTML",
+		"stars": 407
+	},
+	{
+		"slug": "hydromatic/morel",
+		"desc": "Standard ML interpreter, with relational extensions, implemented in Java",
+		"lang": "Java",
+		"stars": 278
+	},
+	{
+		"slug": "rtr7/router7",
+		"desc": "router7 is a small home internet router completely written in Go. It is implemented as a gokrazy appliance.",
+		"lang": "Go",
+		"stars": 2544
+	},
+	{
+		"slug": "rswier/c4",
+		"desc": "C in four functions",
+		"lang": "C",
+		"stars": 8067
+	},
+	{
+		"slug": "Harvey-OS/harvey",
+		"desc": "A distributed operating system",
+		"lang": "C",
+		"stars": 1431
+	},
+	{
+		"slug": "dominikh/go-tools",
+		"desc": "Staticcheck - The advanced Go linter",
+		"lang": "Go",
+		"stars": 5288
+	},
+	{
+		"slug": "gokrazy/rsync",
+		"desc": "gokrazy rsync",
+		"lang": "Go",
+		"stars": 371
+	},
+	{
+		"slug": "sifive/freedom-e-sdk",
+		"desc": "Open Source Software for Developing on the Freedom E Platform",
+		"lang": "C",
+		"stars": 545
+	},
+	{
+		"slug": "EnzymeAD/Enzyme",
+		"desc": "High-performance automatic differentiation of LLVM and MLIR.",
+		"lang": "LLVM",
+		"stars": 925
+	},
+	{
+		"slug": "mortdeus/legacy-cc",
+		"desc": "The earliest versions of the very first c compiler known to exist in the wild written by the late legend himself dmr.",
+		"lang": "C",
+		"stars": 3498
+	},
+	{
+		"slug": "troglobit/mg",
+		"desc": "Micro (GNU) Emacs-like text editor  public-domain",
+		"lang": "C",
+		"stars": 256
+	},
+	{
+		"slug": "inferno-os/inferno-os",
+		"desc": "Inferno® is a distributed operating system. Inferno represents services and resources in a file-like name hierarchy, including devices, network and protocol interfaces, dynamic data sources, and se…",
+		"lang": "C",
+		"stars": 140
+	},
+	{
+		"slug": "Eelis/cxxdraft-htmlgen",
+		"desc": "Generates http://eel.is/c++draft",
+		"lang": "Haskell",
+		"stars": 125
+	},
+	{
+		"slug": "arclanguage/anarki",
+		"desc": "Community-managed fork of the Arc dialect of Lisp; for commit privileges submit a pull request.",
+		"lang": "Arc",
+		"stars": 1131
+	},
+	{
+		"slug": "c3d/xl",
+		"desc": "A minimalist, general-purpose programming language based on meta-programming and parse tree rewrites",
+		"lang": "C++",
+		"stars": 218
+	},
+	{
+		"slug": "jserv/unix-v1",
+		"desc": "Restoration of 1st Edition UNIX kernel sources from Bell Laboratories",
+		"lang": "C",
+		"stars": 174
+	},
+	{
+		"slug": "DoctorWkt/unix-jun72",
+		"desc": "The working source code to PDP-11 Unix from 1972.",
+		"lang": "Assembly",
+		"stars": 82
+	},
+	{
+		"slug": "hanickadot/cthash",
+		"desc": "constexpr implementation of SHA-2 and SHA-3 family of hashes",
+		"lang": "C++",
+		"stars": 135
+	},
+	{
+		"slug": "Ixrec/rust-orphan-rules",
+		"desc": "An unofficial, experimental place for documenting and gathering feedback on the design problems around Rust's orphan rules",
+		"stars": 130
+	},
+	{
+		"slug": "mit-pdos/biscuit",
+		"desc": "Biscuit research OS",
+		"lang": "Go",
+		"stars": 2141
+	},
+	{
+		"slug": "nindalf/arewefastyet",
+		"desc": "arewefastyet.rs - benchmarking the Rust compiler",
+		"lang": "Rust",
+		"stars": 19
+	},
+	{
+		"slug": "SMLFamily/Successor-ML",
+		"desc": "A version of the 1997 SML definition with corrections and some proposed Successor ML features added.",
+		"lang": "TeX",
+		"stars": 182
+	},
+	{
+		"slug": "susam/tucl",
+		"desc": "The first-ever paper on the Unix shell written by Ken Thompson in 1976 scanned, transcribed, and redistributed with permission",
+		"lang": "Makefile",
+		"stars": 342
+	},
+	{
+		"slug": "timbod7/adl",
+		"desc": "ADL (Algebraic Data Language)",
+		"lang": "C++",
+		"stars": 199
+	},
+	{
+		"slug": "ulid/spec",
+		"desc": "The canonical spec for ulid",
+		"stars": 6565
+	},
+	{
+		"slug": "vlang/v",
+		"desc": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. Supports automatic C => V translation. https://vlang.io",
+		"lang": "V",
+		"stars": 33204
+	},
+	{
+		"slug": "watson/awesome-computer-history",
+		"desc": "An Awesome List of computer history videos, documentaries and related folklore",
+		"stars": 2429
+	},
+	{
+		"slug": "willghatch/racket-rash",
+		"desc": "The Reckless Racket Shell",
+		"lang": "Racket",
+		"stars": 462
+	},
+	{
+		"slug": "xoreaxeaxeax/sandsifter",
+		"desc": "The x86 processor fuzzer",
+		"lang": "Python",
+		"stars": 4714
+	},
+	{
+		"slug": "yue-best-practices/vpm",
+		"desc": "package manage for v",
+		"lang": "V",
+		"stars": 31
+	},
+	{
+		"slug": "hylang/hy",
+		"desc": "A dialect of Lisp that's embedded in Python",
+		"lang": "Python",
+		"stars": 4504
+	},
+	{
+		"slug": "pyston/pyston",
+		"desc": "A faster and highly-compatible implementation of the Python programming language.",
+		"lang": "Python",
+		"stars": 2375
+	},
+	{
+		"slug": "robpike/filter",
+		"desc": "Simple apply/filter/reduce package.",
+		"lang": "Go",
+		"stars": 752
+	},
+	{
+		"slug": "jimblandy/context-switch",
+		"desc": "Comparison of Rust async and Linux thread context switch time.",
+		"lang": "Rust",
+		"stars": 625
+	},
+	{
+		"slug": "phonologus/QED",
+		"desc": "UTF-8/Unicode-aware port of Rob Pike's QED editor for Unix",
+		"lang": "C",
+		"stars": 29
+	},
+	{
+		"slug": "SuperPaintman/the-evolution-of-a-go-programmer",
+		"desc": "The Evolution of a Go Programmer",
+		"lang": "Go",
+		"stars": 1150
+	},
+	{
+		"slug": "bazelbuild/starlark",
+		"desc": "Starlark Language",
+		"lang": "Starlark",
+		"stars": 1729
+	}
+]

@@ -1,0 +1,200 @@
+[
+	{
+		"slug": "dsherret/dax",
+		"desc": "Cross platform shell tools for Deno inspired by zx.",
+		"lang": "TypeScript",
+		"stars": 270
+	},
+	{
+		"slug": "hanslub42/rlwrap",
+		"desc": "A readline wrapper",
+		"lang": "C",
+		"stars": 1964
+	},
+	{
+		"slug": "fukuchi/libqrencode",
+		"desc": "A fast and compact QR Code encoding library",
+		"lang": "C",
+		"stars": 2201
+	},
+	{
+		"slug": "c4spar/deno-cliffy",
+		"desc": "Command line framework for deno  Including Commandline-Interfaces, Prompts, CLI-Table, Arguments Parser and more...",
+		"lang": "TypeScript",
+		"stars": 629
+	},
+	{
+		"slug": "charmbracelet/lipgloss",
+		"desc": "Style definitions for nice terminal layouts",
+		"lang": "Go",
+		"stars": 5691
+	},
+	{
+		"slug": "ClementTsang/bottom",
+		"desc": "Yet another cross-platform graphical process/system monitor.",
+		"lang": "Rust",
+		"stars": 6504
+	},
+	{
+		"slug": "spf13/cobra",
+		"desc": "A Commander for modern Go CLI interactions",
+		"lang": "Go",
+		"stars": 31255
+	},
+	{
+		"slug": "antonmedv/fx",
+		"desc": "Terminal JSON viewer",
+		"lang": "Go",
+		"stars": 16096
+	},
+	{
+		"slug": "Canop/broot",
+		"desc": "A new way to see and navigate directory trees : https://dystroy.org/broot",
+		"lang": "Rust",
+		"stars": 8470
+	},
+	{
+		"slug": "charmbracelet/vhs",
+		"desc": "Your CLI home video recorder",
+		"lang": "Go",
+		"stars": 10069
+	},
+	{
+		"slug": "asciinema/asciinema",
+		"desc": "Terminal session recorder",
+		"lang": "Python",
+		"stars": 11397
+	},
+	{
+		"slug": "wtfutil/wtf",
+		"desc": "The personal information dashboard for your terminal",
+		"lang": "Go",
+		"stars": 14709
+	},
+	{
+		"slug": "upx/upx",
+		"desc": "UPX - the Ultimate Packer for eXecutables",
+		"lang": "C++",
+		"stars": 11175
+	},
+	{
+		"slug": "pystardust/ytfzf",
+		"desc": "A posix script to find and watch youtube videos from the terminal. (Without API)",
+		"lang": "Shell",
+		"stars": 3104
+	},
+	{
+		"slug": "sayanarijit/xplr",
+		"desc": "A hackable, minimal, fast TUI file explorer",
+		"lang": "Rust",
+		"stars": 2956
+	},
+	{
+		"slug": "arcanis/clipanion",
+		"desc": "Type-safe CLI library / framework with no runtime dependencies",
+		"lang": "TypeScript",
+		"stars": 865
+	},
+	{
+		"slug": "console-rs/dialoguer",
+		"desc": "Rust utility library for nice command line prompts and similar things",
+		"lang": "Rust",
+		"stars": 929
+	},
+	{
+		"slug": "httpie/httpie",
+		"desc": "HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.",
+		"lang": "Python",
+		"stars": 27018
+	},
+	{
+		"slug": "kkawakam/rustyline",
+		"desc": "Readline Implementation in Rust",
+		"lang": "Rust",
+		"stars": 1213
+	},
+	{
+		"slug": "maaslalani/typer",
+		"desc": "Typing test in your terminal",
+		"lang": "Go",
+		"stars": 347
+	},
+	{
+		"slug": "xorg62/tty-clock",
+		"desc": "Clock using lib ncurses",
+		"lang": "C",
+		"stars": 722
+	},
+	{
+		"slug": "aaronjanse/3mux",
+		"desc": "Terminal multiplexer inspired by i3",
+		"lang": "Go",
+		"stars": 1761
+	},
+	{
+		"slug": "dirs-dev/dirs-rs",
+		"desc": "a low-level library that provides config/cache/data paths, following the respective conventions on Linux, macOS and Windows",
+		"lang": "Rust",
+		"stars": 418
+	},
+	{
+		"slug": "asciimoo/drawille",
+		"desc": "Pixel graphics in terminal with unicode braille characters",
+		"lang": "Python",
+		"stars": 3034
+	},
+	{
+		"slug": "b0o/zfzf",
+		"desc": "zfzf is a fzf-based file picker for zsh which allows you to quickly navigate the directory hierarchy",
+		"lang": "Shell",
+		"stars": 18
+	},
+	{
+		"slug": "sharkdp/bat",
+		"desc": "A cat(1) clone with wings.",
+		"lang": "Rust",
+		"stars": 40349
+	},
+	{
+		"slug": "tvrzna/emptty",
+		"desc": "Dead simple CLI Display Manager on TTY",
+		"lang": "Go",
+		"stars": 503
+	},
+	{
+		"slug": "dirs-dev/directories-rs",
+		"desc": "a mid-level library that provides config/cache/data paths, following the respective conventions on Linux, macOS and Windows",
+		"lang": "Rust",
+		"stars": 513
+	},
+	{
+		"slug": "asciinema/asciinema-player",
+		"desc": "Web player for terminal session recordings",
+		"lang": "JavaScript",
+		"stars": 2345
+	},
+	{
+		"slug": "idank/explainshell",
+		"desc": "match command-line arguments to their help text",
+		"lang": "Python",
+		"stars": 11774
+	},
+	{
+		"slug": "bmc/daemonize",
+		"desc": "Command line utility to run a program as a Unix daemon",
+		"lang": "C",
+		"stars": 528
+	},
+	{
+		"slug": "madbence/node-drawille",
+		"desc": "Drawing in terminal with unicode braille characters",
+		"lang": "JavaScript",
+		"stars": 983
+	},
+	{
+		"slug": "trehn/termdown",
+		"desc": "Countdown timer and stopwatch in your terminal",
+		"lang": "Python",
+		"stars": 1152
+	}
+]

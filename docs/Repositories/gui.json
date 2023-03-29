@@ -1,0 +1,236 @@
+[
+	{
+		"slug": "emilk/egui",
+		"desc": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native",
+		"lang": "Rust",
+		"stars": 14182
+	},
+	{
+		"slug": "hyprwm/Hyprland",
+		"desc": "Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+		"lang": "C++",
+		"stars": 7018
+	},
+	{
+		"slug": "ianyh/Amethyst",
+		"desc": "Automatic tiling window manager for macOS à la xmonad.",
+		"lang": "Swift",
+		"stars": 12602
+	},
+	{
+		"slug": "lapce/lapce",
+		"desc": "Lightning-fast and Powerful Code Editor written in Rust",
+		"lang": "Rust",
+		"stars": 24835
+	},
+	{
+		"slug": "slint-ui/slint",
+		"desc": "Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++, o…",
+		"lang": "Rust",
+		"stars": 6055
+	},
+	{
+		"slug": "conformal/spectrwm",
+		"desc": "A small dynamic tiling window manager for X11.",
+		"lang": "C",
+		"stars": 1198
+	},
+	{
+		"slug": "riverwm/river",
+		"desc": "A dynamic tiling Wayland compositor",
+		"lang": "Zig",
+		"stars": 2144
+	},
+	{
+		"slug": "baskerville/bspwm",
+		"desc": "A tiling window manager based on binary space partitioning",
+		"lang": "C",
+		"stars": 6889
+	},
+	{
+		"slug": "leftwm/leftwm",
+		"desc": "A tiling window manager for Adventurers",
+		"lang": "Rust",
+		"stars": 2323
+	},
+	{
+		"slug": "iced-rs/iced",
+		"desc": "A cross-platform GUI library for Rust, inspired by Elm",
+		"lang": "Rust",
+		"stars": 18514
+	},
+	{
+		"slug": "lxqt/pcmanfm-qt",
+		"desc": "File manager and desktop icon manager (Qt port of PCManFM and libfm)",
+		"lang": "C++",
+		"stars": 320
+	},
+	{
+		"slug": "dylanaraps/sowm",
+		"desc": "An itsy bitsy floating window manager (220~ sloc!).",
+		"lang": "C",
+		"stars": 806
+	},
+	{
+		"slug": "imgui-rs/imgui-rs",
+		"desc": "Rust bindings for Dear ImGui",
+		"lang": "Rust",
+		"stars": 2147
+	},
+	{
+		"slug": "linebender/druid",
+		"desc": "A data-first Rust-native UI design toolkit.",
+		"lang": "Rust",
+		"stars": 8754
+	},
+	{
+		"slug": "polybar/polybar",
+		"desc": "A fast and easy-to-use status bar",
+		"lang": "C++",
+		"stars": 12294
+	},
+	{
+		"slug": "deno-windowing/dwm",
+		"desc": "Deno Window Manager: Cross-platform window creation and management",
+		"lang": "TypeScript",
+		"stars": 81
+	},
+	{
+		"slug": "fvwmorg/fvwm3",
+		"desc": "FVWM version 3 -- the successor to fvwm2",
+		"lang": "C",
+		"stars": 397
+	},
+	{
+		"slug": "lumina-desktop/lumina",
+		"desc": "Lumina Desktop Environment",
+		"lang": "C++",
+		"stars": 506
+	},
+	{
+		"slug": "phaazon/luminance-rs",
+		"desc": "Type-safe, type-level and stateless Rust graphics framework",
+		"lang": "Rust",
+		"stars": 1039
+	},
+	{
+		"slug": "RazrFalcon/tiny-skia",
+		"desc": "A tiny Skia subset ported to Rust",
+		"lang": "Rust",
+		"stars": 707
+	},
+	{
+		"slug": "9wm/9wm",
+		"desc": "X11 Window Manager inspired by Plan 9's rio",
+		"lang": "C",
+		"stars": 139
+	},
+	{
+		"slug": "AustinJ235/basalt",
+		"desc": "A rust library that provides window creation, input handling, and most importantly a UI.",
+		"lang": "Rust",
+		"stars": 111
+	},
+	{
+		"slug": "enkore/j4-dmenu-desktop",
+		"desc": "A fast desktop menu",
+		"lang": "C++",
+		"stars": 606
+	},
+	{
+		"slug": "flameshot-org/flameshot",
+		"desc": "Powerful yet simple to use screenshot software",
+		"lang": "C++",
+		"stars": 20536
+	},
+	{
+		"slug": "lirios/shell",
+		"desc": "Convergent shell for desktops, phones and tables built with QtQuick, Wayland and Material Design",
+		"lang": "C++",
+		"stars": 220
+	},
+	{
+		"slug": "astrodon/astrodon",
+		"desc": "Make Desktop apps with Deno",
+		"lang": "TypeScript",
+		"stars": 826
+	},
+	{
+		"slug": "dudik/herbe",
+		"desc": "Daemon-less notifications without D-Bus. Minimal and lightweight.",
+		"lang": "C",
+		"stars": 447
+	},
+	{
+		"slug": "fyr77/EnvyUpdate",
+		"desc": "Small update checker application for Nvidia GPUs",
+		"lang": "C#",
+		"stars": 82
+	},
+	{
+		"slug": "g3n/engine",
+		"desc": "Go 3D Game Engine (http://g3n.rocks)",
+		"lang": "Go",
+		"stars": 2296
+	},
+	{
+		"slug": "instantOS/instantWM",
+		"desc": "The window manager for instantOS",
+		"lang": "C",
+		"stars": 330
+	},
+	{
+		"slug": "qtile/qtile",
+		"desc": "A full-featured, hackable tiling window manager written and configured in Python (X11 + Wayland)",
+		"lang": "Python",
+		"stars": 3963
+	},
+	{
+		"slug": "JLErvin/berry",
+		"desc": "A healthy, byte-sized window manager",
+		"lang": "C",
+		"stars": 944
+	},
+	{
+		"slug": "dunst-project/dunst",
+		"desc": "Lightweight and customizable notification daemon",
+		"lang": "C",
+		"stars": 3716
+	},
+	{
+		"slug": "Bismuth-Forge/bismuth",
+		"desc": "KDE Plasma add-on, that tiles your windows automatically and lets you manage them via keyboard, similarly to i3, Sway or dwm.",
+		"lang": "TypeScript",
+		"stars": 1835
+	},
+	{
+		"slug": "Kintaro/wtftw",
+		"desc": "Window Tiling For The Win. A tiling window manager written in Rust",
+		"lang": "Rust",
+		"stars": 2374
+	},
+	{
+		"slug": "rxi/microui",
+		"desc": "A tiny immediate-mode UI library",
+		"lang": "C",
+		"stars": 2606
+	},
+	{
+		"slug": "xmonad/xmonad",
+		"desc": "The core of xmonad, a small but functional ICCCM-compliant tiling window manager",
+		"lang": "Haskell",
+		"stars": 2932
+	},
+	{
+		"slug": "nannou-org/nannou",
+		"desc": "A Creative Coding Framework for Rust.",
+		"lang": "Rust",
+		"stars": 5133
+	},
+	{
+		"slug": "project-repo/cagebreak",
+		"desc": "Cagebreak: A Wayland Tiling Compositor Inspired by Ratpoison",
+		"lang": "C",
+		"stars": 166
+	}
+]

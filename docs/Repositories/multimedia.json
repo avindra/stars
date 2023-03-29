@@ -1,0 +1,308 @@
+[
+	{
+		"slug": "easymodo/qimgv",
+		"desc": "Image viewer. Fast, easy to use. Optional video support.",
+		"lang": "C++",
+		"stars": 1633
+	},
+	{
+		"slug": "google/mediapipe",
+		"desc": "Cross-platform, customizable ML solutions for live and streaming media.",
+		"lang": "C++",
+		"stars": 21105
+	},
+	{
+		"slug": "mpvnet-player/mpv.net",
+		"desc": "mpv.net is a modern media player for Windows that works just like mpv.",
+		"lang": "C#",
+		"stars": 1965
+	},
+	{
+		"slug": "ImageOptim/gifski",
+		"desc": "GIF encoder based on libimagequant (pngquant). Squeezes maximum possible quality from the awful GIF format.",
+		"lang": "Rust",
+		"stars": 3015
+	},
+	{
+		"slug": "libjxl/libjxl",
+		"desc": "JPEG XL image format reference implementation",
+		"lang": "C++",
+		"stars": 1039
+	},
+	{
+		"slug": "LuanRT/YouTube.js",
+		"desc": "A wrapper around YouTube's internal API — reverse engineering InnerTube",
+		"lang": "TypeScript",
+		"stars": 2515
+	},
+	{
+		"slug": "ProjectMirador/mirador",
+		"desc": "An open-source, web-based 'multi-up' viewer that supports zoom-pan-rotate functionality, ability to display/compare simple images, and images with annotations.",
+		"lang": "JavaScript",
+		"stars": 481
+	},
+	{
+		"slug": "remotion-dev/remotion",
+		"desc": "Make videos programmatically with React",
+		"lang": "TypeScript",
+		"stars": 15604
+	},
+	{
+		"slug": "wwmm/easyeffects",
+		"desc": "Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications",
+		"lang": "C++",
+		"stars": 4601
+	},
+	{
+		"slug": "vkohaupt/vokoscreenNG",
+		"desc": "vokoscreenNG is a powerful screencast creator in many languages to record the screen, an area or a window (Linux only). Recording of audio from multiple sources is supported. With the built-in came…",
+		"lang": "C++",
+		"stars": 727
+	},
+	{
+		"slug": "DvorakDwarf/Infinite-Storage-Glitch",
+		"desc": "ISG lets you use YouTube as cloud storage for ANY files, not just video",
+		"lang": "Rust",
+		"stars": 9404
+	},
+	{
+		"slug": "ffmpegwasm/ffmpeg.wasm",
+		"desc": "FFmpeg for browser and node, powered by WebAssembly",
+		"lang": "JavaScript",
+		"stars": 10044
+	},
+	{
+		"slug": "haasn/libplacebo",
+		"desc": "Official mirror of libplacebo",
+		"lang": "C",
+		"stars": 364
+	},
+	{
+		"slug": "ksnip/ksnip",
+		"desc": "ksnip the cross-platform screenshot and annotation tool",
+		"lang": "C++",
+		"stars": 1586
+	},
+	{
+		"slug": "linebender/piet",
+		"desc": "An abstraction for 2D graphics.",
+		"lang": "Rust",
+		"stars": 1075
+	},
+	{
+		"slug": "resurrecting-open-source-projects/scrot",
+		"desc": "SCReenshOT - command line screen capture utility",
+		"lang": "C",
+		"stars": 364
+	},
+	{
+		"slug": "rust-skia/rust-skia",
+		"desc": "Safe Skia Bindings for Rust",
+		"lang": "Rust",
+		"stars": 1024
+	},
+	{
+		"slug": "servo/surfman",
+		"desc": "Accelerated offscreen graphics for WebGL",
+		"lang": "Rust",
+		"stars": 152
+	},
+	{
+		"slug": "LMMS/lmms",
+		"desc": "Cross-platform music production software",
+		"lang": "C++",
+		"stars": 6574
+	},
+	{
+		"slug": "alda-lang/alda",
+		"desc": "A music programming language for musicians.",
+		"lang": "Go",
+		"stars": 5295
+	},
+	{
+		"slug": "BobStrogg/teslacam-browser",
+		"desc": "A very simple TeslaCam browser",
+		"lang": "JavaScript",
+		"stars": 221
+	},
+	{
+		"slug": "Boddlnagg/midir",
+		"desc": "Cross-platform realtime MIDI processing in Rust.",
+		"lang": "Rust",
+		"stars": 431
+	},
+	{
+		"slug": "deezer/spleeter",
+		"desc": "Deezer source separation library including pretrained models.",
+		"lang": "Python",
+		"stars": 22040
+	},
+	{
+		"slug": "NatronGitHub/Natron",
+		"desc": "Open-source video compositing software. Node-graph based. Similar in functionalities to Adobe After Effects and Nuke by The Foundry.",
+		"lang": "C++",
+		"stars": 3653
+	},
+	{
+		"slug": "shssoichiro/oxipng",
+		"desc": "Multithreaded PNG optimizer written in Rust",
+		"lang": "Rust",
+		"stars": 1933
+	},
+	{
+		"slug": "jpcima/smf-dsp",
+		"desc": "Advanced MIDI file player",
+		"lang": "C++",
+		"stars": 36
+	},
+	{
+		"slug": "thestk/rtmidi",
+		"desc": "A set of C++ classes that provide a common API for realtime MIDI input/output across Linux (ALSA & JACK), Macintosh OS X (CoreMIDI) and Windows (Multimedia)",
+		"lang": "C++",
+		"stars": 807
+	},
+	{
+		"slug": "servo/pathfinder",
+		"desc": "A fast, practical GPU rasterizer for fonts and vector graphics",
+		"lang": "Rust",
+		"stars": 3134
+	},
+	{
+		"slug": "tenacityteam/tenacity",
+		"desc": "Mirror of https://codeberg.org/tenacityteam/tenacity. Pull requests are IGNORED!",
+		"lang": "C++",
+		"stars": 157
+	},
+	{
+		"slug": "Tonejs/Midi",
+		"desc": "Convert MIDI into Tone.js-friendly JSON",
+		"lang": "TypeScript",
+		"stars": 713
+	},
+	{
+		"slug": "cdemoulins/pamixer",
+		"desc": "Pulseaudio command line mixer",
+		"lang": "C++",
+		"stars": 281
+	},
+	{
+		"slug": "jrmuizel/raqote",
+		"desc": "Rust 2D graphics library",
+		"lang": "Rust",
+		"stars": 799
+	},
+	{
+		"slug": "brion/ogv.js",
+		"desc": "JavaScript media player using Ogg/Vorbis/Theora/Opus/WebM libs compiled with Emscripten",
+		"lang": "JavaScript",
+		"stars": 1112
+	},
+	{
+		"slug": "niknah/kazam",
+		"desc": "A screencasting program created with design in mind.(https://launchpad.net/kazam)",
+		"lang": "Python",
+		"stars": 8
+	},
+	{
+		"slug": "sauraen/seq64",
+		"desc": "Sequenced music editor for first-party N64 games",
+		"lang": "C++",
+		"stars": 95
+	},
+	{
+		"slug": "PolyMeilex/Neothesia",
+		"desc": "Flashy Synthesia Like Software For Linux,Windows and MacOs",
+		"lang": "Rust",
+		"stars": 567
+	},
+	{
+		"slug": "acaudwell/Gource",
+		"desc": "software version control visualization",
+		"lang": "C++",
+		"stars": 10034
+	},
+	{
+		"slug": "asciimoo/drawille",
+		"desc": "Pixel graphics in terminal with unicode braille characters",
+		"lang": "Python",
+		"stars": 3034
+	},
+	{
+		"slug": "Ameobea/web-synth",
+		"desc": "A web-based sound synthesis, music production, and audio experimentation platform",
+		"lang": "TypeScript",
+		"stars": 296
+	},
+	{
+		"slug": "chirs241097/QMidiPlayer",
+		"desc": "A free cross-platform midi file player based on libfluidsynth and Qt. Mirror of https://cgit.chrisoft.org/QMidiPlayer.git .",
+		"lang": "C++",
+		"stars": 25
+	},
+	{
+		"slug": "exiftool/exiftool",
+		"desc": "ExifTool meta information reader/writer",
+		"lang": "Perl",
+		"stars": 1991
+	},
+	{
+		"slug": "ftxqxd/drawille-rs",
+		"desc": "a port of asciimoo/drawille to Rust",
+		"lang": "Rust",
+		"stars": 80
+	},
+	{
+		"slug": "altdesktop/playerctl",
+		"desc": "mpris media player command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others.",
+		"lang": "C",
+		"stars": 2015
+	},
+	{
+		"slug": "G4Vi/MHFS",
+		"desc": "Media HTTP File Server, Stream your own music and video library via your browser and standard media players.",
+		"lang": "C",
+		"stars": 9
+	},
+	{
+		"slug": "jpcima/fmidi",
+		"desc": "A library to read and play back MIDI files",
+		"lang": "C++",
+		"stars": 20
+	},
+	{
+		"slug": "mrk-its/bevy_webgl2",
+		"desc": "WebGL2 renderer plugin for Bevy game engine",
+		"lang": "Rust",
+		"stars": 166
+	},
+	{
+		"slug": "naelstrof/maim",
+		"desc": "maim (make image) takes screenshots of your desktop. It has options to take only a region, and relies on slop to query for regions. maim is supposed to be an improved scrot.",
+		"lang": "C++",
+		"stars": 1963
+	},
+	{
+		"slug": "Woyten/tune",
+		"desc": "Make xenharmonic music and create synthesizer tuning files for microtonal scales.",
+		"lang": "Rust",
+		"stars": 105
+	},
+	{
+		"slug": "musescore/MuseScore",
+		"desc": "MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!",
+		"lang": "C++",
+		"stars": 9352
+	},
+	{
+		"slug": "maximecb/noisecraft",
+		"desc": "Browser-based visual programming language and platform for sound synthesis.",
+		"lang": "JavaScript",
+		"stars": 875
+	},
+	{
+		"slug": "mie00/spleeter-realtime",
+		"desc": "Run spleeter as a pulseaudio plugin in realtime",
+		"lang": "C",
+		"stars": 6
+	}
+]

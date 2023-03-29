@@ -1,0 +1,62 @@
+[
+	{
+		"slug": "commons-app/apps-android-commons",
+		"desc": "The Wikimedia Commons Android app allows users to upload pictures from their Android phone/tablet to Wikimedia Commons",
+		"lang": "Java",
+		"stars": 824
+	},
+	{
+		"slug": "wikimedia/eslint-config-wikimedia",
+		"desc": "JavaScript style guide for Wikimedia.",
+		"lang": "JavaScript",
+		"stars": 22
+	},
+	{
+		"slug": "wmde/wikit",
+		"desc": "The Wikibase Design System and home of WMDE-supported component implementations.",
+		"lang": "TypeScript",
+		"stars": 18
+	},
+	{
+		"slug": "mzmcbride/database-reports",
+		"desc": "MediaWiki database reports",
+		"lang": "Python",
+		"stars": 34
+	},
+	{
+		"slug": "x-tools/xtools",
+		"desc": "A suite of tools to analyze page, user and project data of MediaWiki websites",
+		"lang": "PHP",
+		"stars": 89
+	},
+	{
+		"slug": "ipfs/distributed-wikipedia-mirror",
+		"desc": "Putting Wikipedia Snapshots on IPFS",
+		"lang": "TypeScript",
+		"stars": 547
+	},
+	{
+		"slug": "commons-app/commons",
+		"desc": "Commons app for iOS",
+		"lang": "Dart",
+		"stars": 9
+	},
+	{
+		"slug": "wikimedia/mediawiki",
+		"desc": "The collaborative editing software that runs Wikipedia. Mirror from https://gerrit.wikimedia.org/g/mediawiki/core. See https://mediawiki.org/wiki/Developer_access for contributing.",
+		"lang": "PHP",
+		"stars": 3363
+	},
+	{
+		"slug": "avindra/mikiwedia",
+		"desc": "Wikimedia Userscripts",
+		"lang": "JavaScript",
+		"stars": 5
+	},
+	{
+		"slug": "daveshap/PlainTextWikipedia",
+		"desc": "Convert Wikipedia database dumps into plaintext files",
+		"lang": "Python",
+		"stars": 241
+	}
+]

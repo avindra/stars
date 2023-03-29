@@ -1,0 +1,26 @@
+[
+	{
+		"slug": "kmonad/kmonad",
+		"desc": "An advanced keyboard manager",
+		"lang": "Haskell",
+		"stars": 2592
+	},
+	{
+		"slug": "system76/launch",
+		"desc": "System76 Launch Configurable Keyboard",
+		"lang": "Shell",
+		"stars": 1336
+	},
+	{
+		"slug": "baskerville/sxhkd",
+		"desc": "Simple X hotkey daemon",
+		"lang": "C",
+		"stars": 2427
+	},
+	{
+		"slug": "koekeishiya/skhd",
+		"desc": "Simple hotkey daemon for macOS",
+		"lang": "C",
+		"stars": 3864
+	}
+]

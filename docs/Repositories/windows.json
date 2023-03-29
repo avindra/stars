@@ -1,0 +1,98 @@
+[
+	{
+		"slug": "microsoft/PowerToys",
+		"desc": "Windows system utilities to maximize productivity",
+		"lang": "C#",
+		"stars": 88657
+	},
+	{
+		"slug": "workspacer/workspacer",
+		"desc": "a tiling window manager for Windows",
+		"lang": "C#",
+		"stars": 1144
+	},
+	{
+		"slug": "microsoft/wslg",
+		"desc": "Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios",
+		"lang": "C++",
+		"stars": 8556
+	},
+	{
+		"slug": "retep998/winapi-rs",
+		"desc": "Rust bindings to Windows API",
+		"lang": "Rust",
+		"stars": 1627
+	},
+	{
+		"slug": "securitywithoutborders/hardentools",
+		"desc": "Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features.",
+		"lang": "Go",
+		"stars": 2446
+	},
+	{
+		"slug": "AutoHotkey/AutoHotkey",
+		"desc": "AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.",
+		"lang": "C++",
+		"stars": 6629
+	},
+	{
+		"slug": "ipxe/wimboot",
+		"desc": "WIM bootloader",
+		"lang": "C",
+		"stars": 150
+	},
+	{
+		"slug": "jdan/98.css",
+		"desc": "A design system for building faithful recreations of old UIs",
+		"lang": "CSS",
+		"stars": 7903
+	},
+	{
+		"slug": "rzvncj/xCHM",
+		"desc": "xCHM is a cross-platform GPL frontend for CHMLIB (http://www.jedrea.com/chmlib/) written with the wxWidgets framework.",
+		"lang": "C++",
+		"stars": 80
+	},
+	{
+		"slug": "HerMajestyDrMona/Windows11DragAndDropToTaskbarFix",
+		"desc": "\"Windows 11 Drag & Drop to the Taskbar (Fix)\" fixes the missing \"Drag & Drop to the Taskbar\" support in Windows 11. It works with the new Windows 11 taskbar and does not require nasty changes like …",
+		"lang": "C++",
+		"stars": 1355
+	},
+	{
+		"slug": "mridgers/clink",
+		"desc": "Bash's powerful command line editing in cmd.exe",
+		"lang": "C",
+		"stars": 3016
+	},
+	{
+		"slug": "McYoloSwagHam/win3wm",
+		"desc": "A Tiling Window Manager for windows 10, Inspired by i3wm",
+		"lang": "C++",
+		"stars": 1011
+	},
+	{
+		"slug": "microsoft/winget-cli",
+		"desc": "Windows Package Manager CLI (aka winget)",
+		"lang": "C++",
+		"stars": 19754
+	},
+	{
+		"slug": "microsoft/win32metadata",
+		"desc": "Tooling to generate metadata for Win32 APIs in the Windows SDK.",
+		"lang": "C++",
+		"stars": 1149
+	},
+	{
+		"slug": "sdesalas/trifleJS",
+		"desc": "Headless automation for Internet Explorer",
+		"lang": "JavaScript",
+		"stars": 826
+	},
+	{
+		"slug": "GossiTheDog/HiveNightmare",
+		"desc": "Exploit allowing you to read registry hives as non-admin on Windows 10 and 11",
+		"lang": "C++",
+		"stars": 630
+	}
+]

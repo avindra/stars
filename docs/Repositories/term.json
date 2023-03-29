@@ -1,0 +1,98 @@
+[
+	{
+		"slug": "wez/wezterm",
+		"desc": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust",
+		"lang": "Rust",
+		"stars": 7897
+	},
+	{
+		"slug": "borisfaure/terminology",
+		"desc": "The best terminal emulator based on the Enlightenment Foundation Libraries",
+		"lang": "C",
+		"stars": 573
+	},
+	{
+		"slug": "tomscii/zutty",
+		"desc": "X terminal emulator rendering through OpenGL ES Compute Shaders",
+		"lang": "C++",
+		"stars": 276
+	},
+	{
+		"slug": "lanoxx/tilda",
+		"desc": "A Gtk based drop down terminal for Linux and Unix",
+		"lang": "C",
+		"stars": 1177
+	},
+	{
+		"slug": "alacritty/alacritty",
+		"desc": "A cross-platform, OpenGL terminal emulator.",
+		"lang": "Rust",
+		"stars": 45725
+	},
+	{
+		"slug": "nonstop/termit",
+		"desc": "terminal emulator based on VTE library with Lua scripting",
+		"lang": "C",
+		"stars": 139
+	},
+	{
+		"slug": "Swordfish90/cool-retro-term",
+		"desc": "A good looking terminal emulator which mimics the old cathode display...",
+		"lang": "QML",
+		"stars": 18497
+	},
+	{
+		"slug": "liamg/darktile",
+		"desc": "Darktile is a GPU rendered terminal emulator designed for tiling window managers.",
+		"lang": "Go",
+		"stars": 2907
+	},
+	{
+		"slug": "Swordfish90/qmltermwidget",
+		"desc": "QML port of qtermwidget",
+		"lang": "C++",
+		"stars": 173
+	},
+	{
+		"slug": "o2sh/miro",
+		"desc": "My terminal emulator",
+		"lang": "Rust",
+		"stars": 295
+	},
+	{
+		"slug": "cmuratori/refterm",
+		"desc": "Reference monospace terminal renderer",
+		"lang": "C",
+		"stars": 1362
+	},
+	{
+		"slug": "larsbrinkhoff/terminal-simulator",
+		"desc": "Simulation of VT52 and VT100 terminal hardware.",
+		"lang": "C",
+		"stars": 78
+	},
+	{
+		"slug": "M-griffin/EtherTerm",
+		"desc": "EtherTerm (SDL2) Telnet/SSH Terminal",
+		"lang": "C++",
+		"stars": 108
+	},
+	{
+		"slug": "zellij-org/zellij",
+		"desc": "A terminal workspace with batteries included",
+		"lang": "Rust",
+		"stars": 11092
+	},
+	{
+		"slug": "evmar/smash",
+		"desc": "a new kind of terminal",
+		"lang": "TypeScript",
+		"stars": 39
+	},
+	{
+		"slug": "gnome-terminator/terminator",
+		"desc": "multiple GNOME terminals in one window",
+		"lang": "Python",
+		"stars": 1544
+	}
+]

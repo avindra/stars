@@ -1,0 +1,62 @@
+[
+	{
+		"slug": "uswds/uswds",
+		"desc": "The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.",
+		"lang": "SCSS",
+		"stars": 6356
+	},
+	{
+		"slug": "primer/react",
+		"desc": "An implementation of GitHub's Primer Design System using React",
+		"lang": "TypeScript",
+		"stars": 2328
+	},
+	{
+		"slug": "adobe/react-spectrum",
+		"desc": "A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.",
+		"lang": "TypeScript",
+		"stars": 8249
+	},
+	{
+		"slug": "mdn/yari",
+		"desc": "The platform code behind MDN Web Docs",
+		"lang": "TypeScript",
+		"stars": 968
+	},
+	{
+		"slug": "shadcn/ui",
+		"desc": "Beautifully designed components built with Radix UI and Tailwind CSS.",
+		"lang": "TypeScript",
+		"stars": 10125
+	},
+	{
+		"slug": "jpmorganchase/modular",
+		"desc": "A modular front end development framework",
+		"lang": "TypeScript",
+		"stars": 581
+	},
+	{
+		"slug": "Shopify/hydrogen",
+		"desc": "Hydrogen is Shopify’s stack for headless commerce. It provides a set of tools, utilities, and best-in-class examples for building dynamic and performant commerce applications. Hydrogen is designed …",
+		"lang": "TypeScript",
+		"stars": 422
+	},
+	{
+		"slug": "Siumauricio/rippleui",
+		"desc": "Clean, modern and beautiful Tailwind CSS components.",
+		"lang": "CSS",
+		"stars": 552
+	},
+	{
+		"slug": "newjersey/njwds",
+		"desc": "NJ Web Design Standards",
+		"lang": "Nunjucks",
+		"stars": 5
+	},
+	{
+		"slug": "teslamotors/informed",
+		"desc": "A lightweight framework and utility for building powerful forms in React applications",
+		"lang": "JavaScript",
+		"stars": 824
+	}
+]

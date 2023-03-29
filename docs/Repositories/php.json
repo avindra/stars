@@ -1,0 +1,85 @@
+[
+	{
+		"slug": "composer/composer",
+		"desc": "Dependency Manager for PHP",
+		"lang": "PHP",
+		"stars": 27501
+	},
+	{
+		"slug": "hirak/prestissimo",
+		"desc": "composer parallel install plugin",
+		"lang": "PHP",
+		"stars": 6255
+	},
+	{
+		"slug": "php-fig/fig-standards",
+		"desc": "Standards either proposed or approved by the Framework Interop Group",
+		"stars": 12425
+	},
+	{
+		"slug": "sebastianbergmann/phpunit",
+		"desc": "The PHP Unit Testing framework.",
+		"lang": "PHP",
+		"stars": 18998
+	},
+	{
+		"slug": "filp/whoops",
+		"desc": "PHP errors for cool kids",
+		"lang": "PHP",
+		"stars": 12984
+	},
+	{
+		"slug": "amphp/amp",
+		"desc": "A non-blocking concurrency framework for PHP applications.",
+		"lang": "PHP",
+		"stars": 3891
+	},
+	{
+		"slug": "bobthecow/psysh",
+		"desc": "A REPL for PHP",
+		"lang": "PHP",
+		"stars": 9503
+	},
+	{
+		"slug": "Crell/Serde",
+		"desc": "Robust Serde (serialization/deserialization) library for PHP 8.",
+		"lang": "PHP",
+		"stars": 115
+	},
+	{
+		"slug": "openswoole/ext-openswoole",
+		"desc": "Programmatic server for PHP with async IO, coroutines and fibers",
+		"lang": "C++",
+		"stars": 718
+	},
+	{
+		"slug": "sebastianbergmann/phpcpd",
+		"desc": "Copy/Paste Detector (CPD) for PHP code.",
+		"lang": "PHP",
+		"stars": 2225
+	},
+	{
+		"slug": "PHP-CS-Fixer/PHP-CS-Fixer",
+		"desc": "A tool to automatically fix PHP Coding Standards issues",
+		"lang": "PHP",
+		"stars": 11845
+	},
+	{
+		"slug": "FriendsOfPHP/pickle",
+		"desc": "PHP Extension installer",
+		"lang": "PHP",
+		"stars": 1585
+	},
+	{
+		"slug": "openswoole/openswoole",
+		"desc": "Openswoole: powering the next-generation micro-services and application",
+		"lang": "PHP",
+		"stars": 50
+	},
+	{
+		"slug": "phpearth/php-lands",
+		"desc": "The PHP Lands Map",
+		"lang": "Shell",
+		"stars": 74
+	}
+]
