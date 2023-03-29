@@ -28,3 +28,35 @@
 
 	console.log(data);
 })();
+
+// single page extract
+(() => {
+	const slug = document
+		.querySelector('[itemprop="name"] a')
+		.pathname.substring(1);
+
+	const desc = document.querySelector("p.my-3").textContent.trim();
+
+	const lang = document
+		.querySelector(".list-style-none .d-inline a")
+		.textContent.trim()
+		.replace(/\n.+/, "");
+
+	const stars = parseInt(
+		document
+			.querySelector("#repo-stars-counter-unstar")
+			.title.replace(/,/g, ""),
+		10,
+	);
+
+	const data = {
+		slug,
+		desc,
+		lang,
+		stars,
+	};
+
+	console.log(JSON.stringify(data, null, 2));
+
+	return data;
+})();
