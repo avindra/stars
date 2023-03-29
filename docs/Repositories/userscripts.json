@@ -1,11 +1,16 @@
 [
 	{
+		"slug": "avindra/useascript",
+		"desc": "A compendium of userscripts for the Internet.",
+		"lang": "JavaScript",
+		"stars": 5
+	},
+	{
 		"slug": "JasonBarnabe/greasyfork",
 		"desc": "An online repository of user scripts.",
 		"lang": "Ruby",
 		"stars": 1166
 	},
-
 	{
 		"slug": "insin/control-panel-for-twitter",
 		"desc": "Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - available for desktop and mobile browsers",

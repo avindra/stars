@@ -19,6 +19,12 @@
 		"stars": 1996
 	},
 	{
+		"slug": "mupen64plus/mupen64plus-core",
+		"desc": "Core module of the Mupen64Plus project",
+		"lang": "C",
+		"stars": 1088
+	},
+	{
 		"slug": "snes9xgit/snes9x",
 		"desc": "Snes9x - Portable Super Nintendo Entertainment System (TM) emulator",
 		"lang": "C++",
