@@ -12,7 +12,7 @@
 			?.textContent.trim();
 		const lang = node.querySelector(
 			'[itemprop="programmingLanguage"]',
-		).textContent;
+		)?.textContent;
 		const stars = parseInt(
 			node.querySelector(".Link--muted.mr-3").textContent.replace(/,/g, ""),
 			10,

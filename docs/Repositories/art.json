@@ -1,0 +1,105 @@
+[
+  {
+    "slug": "artsmia/artstories.md",
+    "lang": "Makefile",
+    "stars": 2
+  },
+  {
+    "slug": "borisdayma/dalle-mini",
+    "desc": "DALL·E Mini - Generate images from a text prompt",
+    "lang": "Python",
+    "stars": 13869
+  },
+  {
+    "slug": "lovasoa/dezoomify-rs",
+    "desc": "Zoomable image downloader for Google Arts & Culture, Zoomify, IIIF, and others",
+    "lang": "Rust",
+    "stars": 414
+  },
+  {
+    "slug": "iconclass/data",
+    "desc": "The core data of the Iconclass Classification System",
+    "lang": "Python",
+    "stars": 7
+  },
+  {
+    "slug": "troyeguo/koodo-reader",
+    "desc": "A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web",
+    "lang": "JavaScript",
+    "stars": 9920
+  },
+  {
+    "slug": "lovasoa/whitebophir",
+    "desc": "Online collaborative Whiteboard that is simple, free, easy to use and to deploy",
+    "lang": "JavaScript",
+    "stars": 1610
+  },
+  {
+    "slug": "ruven/iipsrv",
+    "desc": "iipsrv is an advanced high-performance feature-rich image server for web-based streamed viewing and zooming of ultra high-resolution images.",
+    "lang": "C++",
+    "stars": 255
+  },
+  {
+    "slug": "mkrl/misbrands",
+    "desc": "The world's most hated IT stickers",
+    "stars": 7419
+  },
+  {
+    "slug": "mplusmuseum/collection-data",
+    "desc": "Collections data of M+ Museum, Hong Kong",
+    "stars": 17
+  },
+  {
+    "slug": "tategallery/collection",
+    "desc": "Tate Collection metadata",
+    "lang": "Python",
+    "stars": 498
+  },
+  {
+    "slug": "SerenityOS/yaksplained",
+    "desc": "All the SerenityOS Yaks, explained",
+    "stars": 97
+  },
+  {
+    "slug": "agmmnn/fineartdown",
+    "desc": "Download full size images from Fine Art America, Conde Nast Store, Photos.com and Pixels.com",
+    "lang": "TypeScript",
+    "stars": 6
+  },
+  {
+    "slug": "m-rots/getty",
+    "desc": "A small utility to download images from gettyimages",
+    "lang": "Go",
+    "stars": 23
+  },
+  {
+    "slug": "M4444/TMatrix",
+    "desc": "Terminal based replica of the digital rain from The Matrix.",
+    "lang": "C++",
+    "stars": 341
+  },
+  {
+    "slug": "marguerite/linux-bing-wallpaper",
+    "desc": "set Bing Wallpaper of the Day as your Linux Desktop's wallpaper",
+    "lang": "Go",
+    "stars": 107
+  },
+  {
+    "slug": "rh12503/triangula",
+    "desc": "Generate high-quality triangulated and polygonal art from images.",
+    "lang": "Go",
+    "stars": 3804
+  },
+  {
+    "slug": "ruven/iipmooviewer",
+    "desc": "IIPMooViewer is an advanced javascript HTML5 image viewer for streaming high resolution scientific images",
+    "lang": "JavaScript",
+    "stars": 117
+  },
+  {
+    "slug": "UnlockingHistory/virtual-unfolding",
+    "lang": "TypeScript",
+    "stars": 127
+  }
+]
