@@ -1,0 +1,86 @@
+[
+	{
+		"slug": "cemu-project/Cemu",
+		"desc": "Cemu - Wii U emulator",
+		"lang": "C++",
+		"stars": 4483
+	},
+	{
+		"slug": "binji/smolnes",
+		"desc": "NES emulator in <5000 bytes of C",
+		"lang": "C",
+		"stars": 513
+	},
+	{
+		"slug": "n64decomp/sdk-tools",
+		"desc": "Decompilation of the Nintendo 64 SDK developer tools",
+		"lang": "C",
+		"stars": 102
+	},
+	{
+		"slug": "project64/project64",
+		"desc": "N64 Emulator",
+		"lang": "C++",
+		"stars": 1996
+	},
+	{
+		"slug": "visualboyadvance-m/visualboyadvance-m",
+		"desc": "The continuing development of the legendary VBA gameboy advance emulator.",
+		"lang": "C++",
+		"stars": 2766
+	},
+	{
+		"slug": "Rodrigodd/gameroy",
+		"desc": "A Game Boy emulator, disassembler and debugger, written in Rust",
+		"lang": "Rust",
+		"stars": 95
+	},
+	{
+		"slug": "higan-emu/higan",
+		"desc": "higan is a multi-system emulator focused on accuracy, preservation, and configurability.",
+		"lang": "GLSL",
+		"stars": 960
+	},
+	{
+		"slug": "TASEmulators/fceux",
+		"desc": "FCEUX, a NES Emulator",
+		"lang": "C++",
+		"stars": 861
+	},
+	{
+		"slug": "sauraen/seq64",
+		"desc": "Sequenced music editor for first-party N64 games",
+		"lang": "C++",
+		"stars": 95
+	},
+	{
+		"slug": "binji/pokegb",
+		"desc": "A gameboy emulator that only plays Pokemon Blue, in ~50 lines of c++.",
+		"lang": "C++",
+		"stars": 1235
+	},
+	{
+		"slug": "quietust/nintendulator",
+		"desc": "NES emulator for Windows",
+		"lang": "C++",
+		"stars": 40
+	},
+	{
+		"slug": "snes9xgit/snes9x",
+		"desc": "Snes9x - Portable Super Nintendo Entertainment System (TM) emulator",
+		"lang": "C++",
+		"stars": 2051
+	},
+	{
+		"slug": "xyproto/zsnes",
+		"desc": "A maintained fork of ZSNES, a Super Nintendo emulator. The original project needs patches to build and is not maintained anymore: https://sourceforge.net/projects/zsnes/",
+		"lang": "Assembly",
+		"stars": 68
+	},
+	{
+		"slug": "dborth/vbagx",
+		"desc": "Visual Boy Advance GX",
+		"lang": "C++",
+		"stars": 225
+	}
+]

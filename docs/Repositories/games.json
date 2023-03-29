@@ -133,18 +133,6 @@
 		"stars": 196
 	},
 	{
-		"slug": "ugtrain/ugtrain",
-		"desc": "The Universal Elite Game Trainer for CLI (Linux game trainer research project)",
-		"lang": "C++",
-		"stars": 132
-	},
-	{
-		"slug": "ericek111/linux-csgo-external-1",
-		"desc": "CSGO Hack for x64 Linux systems",
-		"lang": "C++",
-		"stars": 7
-	},
-	{
 		"slug": "richiecarmichael/Esri-Flight-Simulator",
 		"desc": "A basic flight simulator with four synchronized views.",
 		"lang": "JavaScript",
