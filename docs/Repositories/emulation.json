@@ -42,6 +42,24 @@
 		"stars": 1749
 	},
 	{
+		"slug": "hrydgard/ppsspp",
+		"desc": "A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the forums at forums.ppsspp.org.",
+		"lang": "C++",
+		"stars": 8524
+	},
+	{
+		"slug": "citra-emu/citra",
+		"desc": "A Nintendo 3DS Emulator",
+		"lang": "C++",
+		"stars": 8333
+	},
+	{
+		"slug": "TASEmulators/desmume",
+		"desc": "DeSmuME is a Nintendo DS emulator",
+		"lang": "C",
+		"stars": 2111
+	},
+	{
 		"slug": "maximecb/uvm",
 		"desc": "Fun, portable, minimalistic virtual machine.",
 		"lang": "Rust",
