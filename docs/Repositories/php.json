@@ -12,6 +12,12 @@
 		"stars": 6255
 	},
 	{
+		"slug": "codeguy/php-the-right-way",
+		"desc": "An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web",
+		"lang": "CSS",
+		"stars": 8766
+	},
+	{
 		"slug": "php-fig/fig-standards",
 		"desc": "Standards either proposed or approved by the Framework Interop Group",
 		"stars": 12425
