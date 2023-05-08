@@ -32,14 +32,14 @@
 // single page extract
 (() => {
 	const slug = document
-		.querySelector('[itemprop="name"] a')
-		.pathname.substring(1);
+		.querySelector(".AppHeader-context-full nav ul")
+		.textContent.replace(/[\s]/g, "");
 
 	const desc = document.querySelector("p.my-3").textContent.trim();
 
 	const lang = document
 		.querySelector(".list-style-none .d-inline a")
-		.textContent.trim()
+		?.textContent.trim()
 		.replace(/\n.+/, "");
 
 	const stars = parseInt(

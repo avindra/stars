@@ -18,6 +18,11 @@
 		"stars": 8766
 	},
 	{
+		"slug": "ggelashvili/learnphptherightway-outline",
+		"desc": "Learn PHP The Right Way Series Outline",
+		"stars": 416
+	},
+	{
 		"slug": "php-fig/fig-standards",
 		"desc": "Standards either proposed or approved by the Framework Interop Group",
 		"stars": 12425
